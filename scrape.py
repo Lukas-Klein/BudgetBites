@@ -45,7 +45,7 @@ for shop in all_shops:
 
     # Save page source to an HTML file
     try:
-        with open(f'{shop.name}.html', 'w', encoding="utf-8") as file:
+        with open(f'html/{shop.name}.html', 'w', encoding="utf-8") as file:
             file.write(driver.page_source)
         print("HTML File successfully written.")
     except Exception as e:
@@ -53,7 +53,7 @@ for shop in all_shops:
     driver.close()
 
     # Parse HTML content and extract product information
-    with open(f'{shop.name}.html', 'r', encoding="utf-8") as file:
+    with open(f'html/{shop.name}.html', 'r', encoding="utf-8") as file:
         html_content = file.read()
 
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -74,5 +74,5 @@ for shop in all_shops:
         date = date_element.get_text(strip=True) if date_element else None
 
         # Write product information to a text file
-        with open(f'{shop.name}.txt', 'a', encoding="utf-8") as file:
+        with open(f'txt/{shop.name}.txt', 'a', encoding="utf-8") as file:
             file.write(f'{name}\n{price}\n{date}\n\n')
