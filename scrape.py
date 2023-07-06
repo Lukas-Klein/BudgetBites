@@ -92,4 +92,4 @@ for shop in all_shops:
 
     # Write product information to a text file
     with open(f'json/{shop.name}.json', 'a', encoding="utf-8") as file:
-        json.dump(product_list, file, ensure_ascii=False)
+        json.dump(product_list, file, ensure_ascii=False, indent=2)

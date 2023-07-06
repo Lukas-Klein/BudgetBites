@@ -294,10 +294,26 @@
     "price": "€2,49",
     "date": "Gültig in 11 Tagen"
   },
-  { "name": "2 T-Shirts", "price": "€6,99", "date": "Gültig in 11 Tagen" },
-  { "name": "Schreibset", "price": "€2,99", "date": "Gültig in 11 Tagen" },
-  { "name": "Kinder-Rucksack", "price": "€9,99", "date": "Gültig in 11 Tagen" },
-  { "name": "Rätselbuch", "price": "€3,99", "date": "Gültig in 11 Tagen" },
+  {
+    "name": "2 T-Shirts",
+    "price": "€6,99",
+    "date": "Gültig in 11 Tagen"
+  },
+  {
+    "name": "Schreibset",
+    "price": "€2,99",
+    "date": "Gültig in 11 Tagen"
+  },
+  {
+    "name": "Kinder-Rucksack",
+    "price": "€9,99",
+    "date": "Gültig in 11 Tagen"
+  },
+  {
+    "name": "Rätselbuch",
+    "price": "€3,99",
+    "date": "Gültig in 11 Tagen"
+  },
   {
     "name": "MEDISANA Fußsprudelbad ,,FS-90L\"",
     "price": "€24,99",
@@ -798,7 +814,11 @@
     "price": "€1,99",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "Jeans", "price": "€12,99", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "Jeans",
+    "price": "€12,99",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "Renforcé - Bettwäsche",
     "price": "€9,99",
@@ -984,7 +1004,11 @@
     "price": "€129,00",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "Fahrradträger", "price": "€369,00", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "Fahrradträger",
+    "price": "€369,00",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "ZUNDAPP Klapprad, 20 Zoll",
     "price": "€349,00",
@@ -1290,7 +1314,11 @@
     "price": "€2,29",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "TRONIC® 4 Akkus", "price": "€4,49", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "TRONIC® 4 Akkus",
+    "price": "€4,49",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "UNITED OFFICEⓇ Aufsatz-Aktenvernichter",
     "price": "€12,99",
@@ -1736,7 +1764,11 @@
     "price": "€2,89",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "Pepsi 1,5 l", "price": "€1,09", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "Pepsi 1,5 l",
+    "price": "€1,09",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "Jules Mumm 0,75 l",
     "price": "€3,99",
@@ -1762,7 +1794,11 @@
     "price": "€1,49",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "Pom-Bär 75 g", "price": "€1,11", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "Pom-Bär 75 g",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "Rot- käppchen Frucht- secco 0,75 l",
     "price": "€2,99",
@@ -1893,7 +1929,11 @@
     "price": "€0,39",
     "date": "Gültig in 4 Tagen"
   },
-  { "name": "Eustoma 10,5 cm.", "price": "€1,99", "date": "Gültig in 4 Tagen" },
+  {
+    "name": "Eustoma 10,5 cm.",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
   {
     "name": "Lavendel angustifolia 12 cm. Je Topf",
     "price": "€2,49",
@@ -2049,9 +2089,21 @@
     "price": "€69,00",
     "date": "Noch 25 Tage gültig"
   },
-  { "name": "Kiel", "price": "€99,00", "date": "Noch 25 Tage gültig" },
-  { "name": "Leipzig", "price": "€99,00", "date": "Noch 25 Tage gültig" },
-  { "name": "Oberhausen", "price": "€199,00", "date": "Noch 25 Tage gültig" },
+  {
+    "name": "Kiel",
+    "price": "€99,00",
+    "date": "Noch 25 Tage gültig"
+  },
+  {
+    "name": "Leipzig",
+    "price": "€99,00",
+    "date": "Noch 25 Tage gültig"
+  },
+  {
+    "name": "Oberhausen",
+    "price": "€199,00",
+    "date": "Noch 25 Tage gültig"
+  },
   {
     "name": "Lateinamerikanische Schätze Kreuzfahrt",
     "price": "€2.999,00",
@@ -2062,10 +2114,26 @@
     "price": "€2.799,00",
     "date": "Noch 25 Tage gültig"
   },
-  { "name": "Berlin", "price": "€139,00", "date": "Noch 25 Tage gültig" },
-  { "name": "Dresden", "price": "€119,00", "date": "Noch 25 Tage gültig" },
-  { "name": "Frankfurt", "price": "€119,00", "date": "Noch 25 Tage gültig" },
-  { "name": "München", "price": "€111,00", "date": "Noch 25 Tage gültig" },
+  {
+    "name": "Berlin",
+    "price": "€139,00",
+    "date": "Noch 25 Tage gültig"
+  },
+  {
+    "name": "Dresden",
+    "price": "€119,00",
+    "date": "Noch 25 Tage gültig"
+  },
+  {
+    "name": "Frankfurt",
+    "price": "€119,00",
+    "date": "Noch 25 Tage gültig"
+  },
+  {
+    "name": "München",
+    "price": "€111,00",
+    "date": "Noch 25 Tage gültig"
+  },
   {
     "name": "Rotes Meer Kreuzfahrt & Baden",
     "price": "€1.599,00",
@@ -2141,7 +2209,11 @@
     "price": "€649,00",
     "date": "Noch 25 Tage gültig"
   },
-  { "name": "Türkei Didim", "price": "€555,00", "date": "Noch 25 Tage gültig" },
+  {
+    "name": "Türkei Didim",
+    "price": "€555,00",
+    "date": "Noch 25 Tage gültig"
+  },
   {
     "name": "Chiemgau Bad Endorf",
     "price": "€199,00",
@@ -2447,7 +2519,11 @@
     "price": "€199,00",
     "date": "Noch 3 Tage gültig"
   },
-  { "name": "VCM Büroregal", "price": "€49,99", "date": "Noch 3 Tage gültig" },
+  {
+    "name": "VCM Büroregal",
+    "price": "€49,99",
+    "date": "Noch 3 Tage gültig"
+  },
   {
     "name": "Nino Leuchten LED-Deckenleuchte",
     "price": "€26,99",
@@ -2658,7 +2734,11 @@
     "price": "€199,00",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "VCM Büroregal", "price": "€49,99", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "VCM Büroregal",
+    "price": "€49,99",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "Nino Leuchten LED-Deckenleuchte",
     "price": "€26,99",
@@ -2839,7 +2919,11 @@
     "price": "€9,99",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Hohes C 1 L", "price": "€1,29", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Hohes C 1 L",
+    "price": "€1,29",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "Buko Frischkäse 300 g",
     "price": "€1,29",
@@ -2975,7 +3059,11 @@
     "price": "€2,29",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Almdudler 1 L", "price": "€1,11", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Almdudler 1 L",
+    "price": "€1,11",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "Alpenfest Riesen-Germknödel 560 g",
     "price": "€2,99",
@@ -3271,7 +3359,11 @@
     "price": "€29,99",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Hinweisschild", "price": "€1,79", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Hinweisschild",
+    "price": "€1,79",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "PARKSIDEⓇ LED-Arbeitsstrahler",
     "price": "€29,99",
@@ -3512,14 +3604,26 @@
     "price": "€9,99",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Kinderbuch", "price": "€2,99", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Kinderbuch",
+    "price": "€2,99",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "Schülerhilfe-Lernblock",
     "price": "€3,49",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Erstlesebuch", "price": "€3,99", "date": "Noch 2 Tage gültig" },
-  { "name": "Lernspielheft", "price": "€3,49", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Erstlesebuch",
+    "price": "€3,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Lernspielheft",
+    "price": "€3,49",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "CRIVIT Sportbustier",
     "price": "€7,99",
@@ -3865,8 +3969,16 @@
     "price": "€1,80",
     "date": "Noch 2 Tage gültig"
   },
-  { "name": "Grünpflanze", "price": "€2,99", "date": "Noch 2 Tage gültig" },
-  { "name": "Gartenhortensie", "price": "€8,49", "date": "Noch 2 Tage gültig" },
+  {
+    "name": "Grünpflanze",
+    "price": "€2,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Gartenhortensie",
+    "price": "€8,49",
+    "date": "Noch 2 Tage gültig"
+  },
   {
     "name": "Blühpflanze in Schale",
     "price": "€4,49",
