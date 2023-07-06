@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Ramazzotti Amaro, Aperitivo Rosato, Crema 0,7 L Flasche",
+    "price": "€10,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Milram Buttermilchdrink 750g Packung",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Kerrygold Original Irischer Käse 150 g Packung",
+    "price": "€1,49",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "EDEKA Mini- Rispentomaten 400g",
+    "price": "€1,00",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Deftige Käse-Krainer*, Milde weiße Bratwurst oder Frische rohe Regensburger Bratwurst 100 g",
+    "price": "€1,15",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Gulasch 100 g",
+    "price": "€0,89",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Saftiger Metzgerschinken oder Frühstücksspeck 100 g",
+    "price": "€1,49",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Schweinerückensteaks 100 g",
+    "price": "€0,77",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Red Bull Energy Drink 4x250 ml Packung",
+    "price": "€3,30",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Tempo Taschentücher 20x 9/24x 9/30x 10/2x 90/100er Packung",
+    "price": "€2,80",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Cavit Pinot Grigio, Merlot 0,75 L Flasche",
+    "price": "€4,40",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Landliebe Joghurt 500 g Glas",
+    "price": "€0,95",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Goldsteig Emmentaler 400 g Packung",
+    "price": "€3,80",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Franziskaner Weißbier 20x0,5 L Flasche",
+    "price": "€12,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Paulaner Spezi 20x0,5 L Flasche",
+    "price": "€9,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "duplo, kinder Riegel oder hanuta 200,2g - 242g Packung",
+    "price": "€1,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Ritter Sport Schokolade 100g Tafel",
+    "price": "€0,79",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Edeka Frucht-Liebe Saft oder Nektar 1 L Flasche",
+    "price": "€1,19",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Milka, Toblerone, Daim oder Oreo Eis 270 ml Packung",
+    "price": "€1,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "GUT& GÜNSTIG Mini-Schokoriegel 400g Beutel",
+    "price": "€2,29",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "kerrygold Cheddar oder Butterkäse 125 g/150 g",
+    "price": "€1,49",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "GUT& GÜNSTIG Sonnenblumen-Margarine 500g Becher",
+    "price": "€1,29",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Salakis Schafskäse 150 g/180 g Packung",
+    "price": "€1,59",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "EDEKA Mini-Rispentomaten 400 g",
+    "price": "€1,00",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "EDEKA Pfirsiche oder Nektarinen",
+    "price": "€1,99",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Salatgurken",
+    "price": "€0,39",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Lillet-Wein-Aperitif 0,75 L Flasche",
+    "price": "€11,79",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "McCain Country Potatoes 600/625 g Beutel",
+    "price": "€1,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Regina Kamillenpapier Toilettenpapier 8x150 Blatt Packung",
+    "price": "€2,22",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Brasilien Mango ,,Palmer\"",
+    "price": "€0,88",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Heineken Bier 20x0,4 L Flasche",
+    "price": "€12,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Iberico span. Schnittkäse 200 g Stück",
+    "price": "€3,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bauern Gut Sommerwurst 100 g",
+    "price": "€1,59",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bauern Gut Hackfleisch vom Rind 300g Packung",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Mini-Quarkbällchen 300g Packung",
+    "price": "€1,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Naturals Premium-Katzenmenü 400 g Dose",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Coral Feinwaschmittel 18/22/23 Waschanwendungen",
+    "price": "€3,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Cottonelle Feuchtes Toilettenpapier 42er Nachfüllpackung",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Milupa Kindermilch 550 g Packung",
+    "price": "€5,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Milupa Milch- oder Grießbrei 400 g Beutel",
+    "price": "€3,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Colgate Total Zahncreme 75ml Tube",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Fit Geschirrspülmittel 500 ml Flasche",
+    "price": "€1,19",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Rexona Deo 50/150 ml Dose",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Adidas Duschgel 250 ml Flasche",
+    "price": "€2,19",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Oettinger Pils 24x0,33 L/ 20x0,5 L Flasche",
+    "price": "€6,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Paulaner Spezi 0,5 L Flasche",
+    "price": "€0,55",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Beck's Bier 0,5 L DPG Dose",
+    "price": "€0,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Wicküler Pilsener 24x0,33 L Flasche",
+    "price": "€7,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "San Miguel spanisches Bier 6x0,33 L Flasche",
+    "price": "€4,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Benediktiner Weißbier 20x0,5 L Flasche",
+    "price": "€15,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Nivea Shampoo oder Spülung 250/200 ml Flasche",
+    "price": "€2,22",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Carolinen Mineralwasser 12x1 L PET-DPG-Flasche",
+    "price": "€4,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Deit kalorienarme Erfrischungsgetränke 12x1 L PET-Flasche",
+    "price": "€7,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Pfalz Deutsches Weintor Weine 0,75 L Flasche",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Somersby Cider 0,33 L DPG Dose",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Aperol Spritz 3x200 ml Flasche",
+    "price": "€6,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Rauch Happy Day 1 L Packung",
+    "price": "€1,39",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Italien Lamberti Weine 0,75 L Flasche",
+    "price": "€3,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "St. Hubertus-Tropfen 0,5 L Flasche",
+    "price": "€4,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Moskovskaya 0,5 L Flasche",
+    "price": "€5,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Mio Mio Mate oder Cola 0,5 L Flasche",
+    "price": "€0,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Vitrex natürliches Mineralwasser 1,5 L PET-DPG-Flasche",
+    "price": "€0,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Italien Wein-Genuss Montepulciano d'Abruzzo, Bardolino Classico oder Primitivo 0,75 L Flasche",
+    "price": "€2,22",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Finsbury London Dry Gin 0,7 L Flasche",
+    "price": "€7,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Hendrick's Gin 0,7 L Flasche",
+    "price": "€27,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Volvic naturelle 1,5 L",
+    "price": "€4,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Mumm Sekt 0,75 L Flasche",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Ballantine's Scotch Whisky 0,7 L Flasche",
+    "price": "€10,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Dinkel-Chia Quarkbrötchen",
+    "price": "€0,35",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Weizenmischbrot 1kg Laib",
+    "price": "€1,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Donuts",
+    "price": "€0,59",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Würstchendog",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Trinkschokolade 220 g Dose",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Harry oder Golden Toast Sandwich 750g Beutel",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "De Beukelaer Erfrischungsstäbchen 75g Packung",
+    "price": "€0,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Maretti Bruschette-Chips 150 g Beutel",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Nestlé Smarties 120/130 g Rolle",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Eduscho Espresso oder Caffé Crema 1kg Beutel",
+    "price": "€9,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Jacobs Gold löslicher Kaffee 200g Glas",
+    "price": "€5,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "CoffeeB Coffee Balls oder Bio Coffee Balls 51g Packung",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Hitschler Hitschies Kaubonbons 125/150g Beutel",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Ritter Sport* Nuss- oder Kakaoklasse 100 g Tafel",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Ferrero Duplo oder Kinderriegel Big-Pack 328/378g Packung",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Mövenpick Kaffee 500g Packung",
+    "price": "€4,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Christians Grød Original dänische Dessertsauce 500ml Packung",
+    "price": "€1,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT& GÜNSTIG Gewürzmühle",
+    "price": "€0,87",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Böklunder Würstchen 380 g Glas",
+    "price": "€2,22",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Kühne Made for Meat Grillsaucen 235ml Flasche",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Mr. Lowcarb Salatdressing 240ml Flasche",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Dr. Oetker Götterspeise oder Kaltschale",
+    "price": "€0,88",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Kölln Blütenzarte oder kernige Haferflocken 500 g Packung",
+    "price": "€1,19",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Nuss-Nougat-Creme 400 g Glas",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Erdbeeren 680 g Glas",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Tomatensauce 350 ml Glas",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Zentis Landliebe Fruchtaufstrich oder Original Aachener Pflümli 180/195/200 g Glas",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Sonnen Bassermann Eintöpfe 800g Dose",
+    "price": "€1,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Birkel Minuto Big Cup",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Maggi Nudelsaucen 500g Glas",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Gemüsemais 330g Dose",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Apfelmus 360g Glas",
+    "price": "€0,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Kichererbsen oder Linsen 500g Beutel",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Delverde Classica Ital. Teigwaren 500g Beutel",
+    "price": "€0,89",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Apfelnektar 1,5 L PET-DPG-Flasche",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Orangensaft 1 L PET-DPG-Flasche",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Obst-Früchte-Mix oder Obst-Melonen-Mix 200g Schale",
+    "price": "€1,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Eiskaffee 1 L Packung",
+    "price": "€1,59",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Pinienkerne 50g Beutel",
+    "price": "€2,59",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Fix für Salat 5x10g Packung",
+    "price": "€0,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Frischei-Waffeln 250g Packung",
+    "price": "€1,39",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Joghurt-Drink 500g Flasche",
+    "price": "€0,95",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Eiswürfel oder Crushed Ice 2 kg Beutel",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Fruchtmischung 750 g Beutel",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT&GÜNSTIG Vanille- oder Schokoladen-Eis 500 ml Packung",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Soya, Skyr-Style oder Absolutely 350/400g Becher",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Lätta Original Halbfettmargarine 600g Becher",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Sylter Saladressing 250ml Flasche",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Jack Link's Beef Jerky 70 g Beutel",
+    "price": "€4,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bürger Schupfnudeln, Eierspätzle oder Maultaschen 300/360/400/500g Packung/Beutel",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Popp Kartoffelsalat 400 g Becher",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gazi Grill- und Pfannenkäse 200 g Packung",
+    "price": "€2,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Bio Körniger Frischkäse 150g Becher",
+    "price": "€0,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Milram Frühlings- oder Gewürzquark 185g Becher",
+    "price": "€0,88",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Exquisa oder Miree 110/150/175/200g Packung/Becher",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Gemüse 300/450g Packung",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Eismeer-Garnelen 225 g Packung",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Ferrero Ice-Cream-Multipack",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Schäfer's Amerikaner Sunny",
+    "price": "€1,45",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Schäfer's Dinkel Vollkornbrot 500 g Laib",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Weizenglück oder Roggenbrötchen 480/540g Beutel",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Himbeeren 300 g Packung",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Wildheidelbeeren 750 g Beutel",
+    "price": "€4,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Schäfer's BroGuette Tomate-Peperoni und BroGuette Olive 350 g Laib",
+    "price": "€2,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bioland Mehrkornbrötchen",
+    "price": "€0,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Gemüsenuggets 255g Packung",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Frosta Fertiggerichte 450/500 g Beutel",
+    "price": "€2,22",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gustavo Gusto Traditionelle Steinofenpizza",
+    "price": "€3,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bruno Gelato Speiseeis 900ml Becher",
+    "price": "€2,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Blattspinat 450 g Packung",
+    "price": "€0,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Olympus Schafskäse oder Feta Original 150g Packung",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Heinrichsthaler Vegetarische Grillwürste 175 g Packung",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Original Mozzarella 100 g",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Steinhaus Bratenaufschnitt 80/100g Packung",
+    "price": "€1,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "STEINHAUS Krustenbraten 100 g",
+    "price": "€2,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Wiesbauer Frühstücksaufschnitt 150g Packung",
+    "price": "€2,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gut & Günstig Schweinerückensteaks mariniert 400g Packung",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gut & Günstig Putenschnitzel 500g Packung",
+    "price": "€5,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Chicken Kotelett 100 g",
+    "price": "€0,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Zuhause Frischhaltedosen-Set",
+    "price": "€9,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Edeka zuhause Frischetresor 2,3 L",
+    "price": "€7,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA zuhause Frischetresor 1,2 L",
+    "price": "€5,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bauern Gut Cevapcici 360 g Packung",
+    "price": "€2,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bauern Gut Schweineschnitzel 500 g Packung",
+    "price": "€4,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Innocent Smoothie oder Säfte 250/330 ml DPG Flasche",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Alpro Soya- oder Haferdrink 1 L Packung",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Alpro Mandel- oder Kokosnuss-Drink 1 L Packung",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Söbbeke Bio-Joghurt 500 g Glas",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Ehrmann High-Protein Joghurt oder Pudding 200 g Becher",
+    "price": "€1,29",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gartenlavendel 11cm Topf",
+    "price": "€1,79",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Dänemark Bio-Mini-Speisemöhren 200 g Beutel",
+    "price": "€0,88",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO Spanien Tafeltrauben 500 g Schale",
+    "price": "€2,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA BIO WWF-Bananen 1kg",
+    "price": "€1,69",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Japanrose ,,Lisi Love\" 12 cm Topf",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Deutschland Pflücksalat 125g Schale",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Peru EDEKA Avocado ,,Hass\" genussreif",
+    "price": "€1,11",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA WWF-Bananen 1kg",
+    "price": "€1,45",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Gärtnerstrauß ,,Sommer\"",
+    "price": "€3,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT& GÜNSTIG Paprika Mix 500 g Packung",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Deutschland Johannisbeeren, rot 500g Schale",
+    "price": "€2,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "EDEKA Heimatliebe Kirschen 100 g",
+    "price": "€0,66",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT& GÜNSTIG Tomaten 500 g Schale",
+    "price": "€0,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Deutschland EDEKA Heimatliebe Kulturheidelbeeren 200 g Schale",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Vossko Ottifanten Nuggets 350 g Packung",
+    "price": "€2,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Monster Energydrink 0,5 L DPG-Dose",
+    "price": "€0,77",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "GUT& GÜNSTIG Nektarinen oder Pfirsiche 1kg Schale",
+    "price": "€1,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Krombacher 24x0,33 L Flasche",
+    "price": "€9,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Nestlé Schöller Multipack-Eis oder Nuii Eis",
+    "price": "€1,99",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Bauern Gut Goldgriller 450 g Packung",
+    "price": "€3,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Knorr Fix-Produkte oder Natürlich Lecker! Würzbasis",
+    "price": "€0,49",
+    "date": "Gültig in 4 Tagen"
+  },
+  {
+    "name": "Salakis Tradition ORIGINAL FETA 150g-200 g Packung",
+    "price": "€1,59",
+    "date": "Noch 2 Tage gültig"
+  },
+  {
+    "name": "Ritter Sport Schokolade Bunte Vielfalt 100 g Tafel",
+    "price": "€0,79",
+    "date": "Noch 2 Tage gültig"
+  }
+]

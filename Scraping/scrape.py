@@ -55,6 +55,8 @@ def scrapeShop(shop):
 rewe = Shop("Rewe", "https://www.prospektangebote.de/geschaefte/rewe/angebote")
 aldi = Shop("Aldi", "https://www.prospektangebote.de/geschaefte/aldi-sud/angebote")
 lidl = Shop("Lidl", "https://www.prospektangebote.de/geschaefte/lidl/angebote")
+edeke = Shop("Edeka", "https://www.prospektangebote.de/geschaefte/edeka/angebote")
+kaufland = Shop("Kaufland", "https://www.prospektangebote.de/geschaefte/kaufland/angebote")
 
 # Accessing all shops
 all_shops = Shop.get_all_shops()
