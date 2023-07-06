@@ -1,8 +1,32 @@
 <script lang="ts">
 	import { Accordion, AccordionItem, Span } from 'flowbite-svelte';
-	import type { iRecipe } from '../types/types';
+	import type { iOffer, iRecipe } from '../types/types';
+	import Offers from '../../../Scraping/offers.json';
 
 	export let recipe: iRecipe;
+
+	function searchIngredientOffers(recipe: iRecipe): iOffer[] {
+		const recipeIngredientNames = recipe.ingredients.map((ingredient) => ingredient.name);
+
+		try {
+			const ingredientOffers: iOffer[] = Offers;
+
+			const matchingOffers = ingredientOffers.filter((offer) => {
+				return recipeIngredientNames.some((ingredientName) => {
+					const regex = new RegExp(`\\b${ingredientName}\\b`, 'gi'); // Match whole word only
+					return regex.test(offer.name);
+				});
+			});
+
+			return matchingOffers;
+		} catch (error) {
+			console.error('Error reading or parsing JSON file:', error);
+			return [];
+		}
+	}
+
+	let matchingOffers = searchIngredientOffers(recipe);
+	console.log(matchingOffers);
 </script>
 
 <AccordionItem>

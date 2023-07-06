@@ -18,10 +18,11 @@ class Shop:
         return cls.all_shops
 
 class Product:
-    def __init__(self, name, price, date):
+    def __init__(self, name, price, date, shop):
         self.name = name
         self.price = price
         self.date = date
+        self.shop = shop
 
 def initializeDriver():
     options = ChromeOptions()
@@ -61,6 +62,8 @@ kaufland = Shop("Kaufland", "https://www.prospektangebote.de/geschaefte/kaufland
 # Accessing all shops
 all_shops = Shop.get_all_shops()
 
+product_list = []
+
 for shop in all_shops:
     
     scrapeShop(shop)
@@ -73,11 +76,9 @@ for shop in all_shops:
     products = soup.find_all(class_='product__bottom')
 
     # Remove existing text file
-    if os.path.exists(f'json/{shop.name}.json'):
-        os.remove(f'json/{shop.name}.json')
+    if os.path.exists('offers.json'):
+        os.remove('offers.json')
 
-    product_list = []
-    
     for product in products:
         # Extract the name, price, and date using the appropriate CSS selectors
         name = product.select_one('.product__name').get_text(strip=True)
@@ -88,10 +89,10 @@ for shop in all_shops:
         date_element = product.select_one('.product-date') or product.select_one('.product__date')
         date = date_element.get_text(strip=True) if date_element else None
 
-        specialOffer = Product(name, price, date)
+        specialOffer = Product(name, price, date, shop.name)
 
         product_list.append(specialOffer.__dict__)
-
+    
     # Write product information to a text file
-    with open(f'json/{shop.name}.json', 'a', encoding="utf-8") as file:
+    with open('offers.json', 'a', encoding="utf-8") as file:
         json.dump(product_list, file, ensure_ascii=False, indent=2)

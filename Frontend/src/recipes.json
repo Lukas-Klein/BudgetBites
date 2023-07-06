@@ -1,126 +1,126 @@
 [
 	{
-		"title": "Pasta Carbonara",
+		"title": "Gemüsecurry",
 		"ingredients": [
 			{
-				"name": "Spaghetti",
-				"amount": "200g"
+				"name": "Blumenkohl",
+				"amount": "1 Kopf"
 			},
 			{
-				"name": "Bacon",
-				"amount": "150g"
-			},
-			{
-				"name": "Eggs",
+				"name": "Karotten",
 				"amount": "2"
 			},
 			{
-				"name": "Parmesan cheese",
-				"amount": "50g"
-			},
-			{
-				"name": "Black pepper",
-				"amount": "to taste"
-			}
-		]
-	},
-	{
-		"title": "Chicken Stir-Fry",
-		"ingredients": [
-			{
-				"name": "Chicken breast",
-				"amount": "2"
-			},
-			{
-				"name": "Bell peppers",
-				"amount": "2"
-			},
-			{
-				"name": "Broccoli",
-				"amount": "1 head"
-			},
-			{
-				"name": "Soy sauce",
-				"amount": "2 tablespoons"
-			},
-			{
-				"name": "Garlic",
-				"amount": "3 cloves"
-			}
-		]
-	},
-	{
-		"title": "Chocolate Chip Cookies",
-		"ingredients": [
-			{
-				"name": "Flour",
-				"amount": "2 cups"
-			},
-			{
-				"name": "Butter",
-				"amount": "1 cup"
-			},
-			{
-				"name": "Sugar",
-				"amount": "1 cup"
-			},
-			{
-				"name": "Chocolate chips",
-				"amount": "2 cups"
-			},
-			{
-				"name": "Vanilla extract",
-				"amount": "1 teaspoon"
-			}
-		]
-	},
-	{
-		"title": "Vegetable Curry",
-		"ingredients": [
-			{
-				"name": "Potatoes",
-				"amount": "3"
-			},
-			{
-				"name": "Carrots",
-				"amount": "2"
-			},
-			{
-				"name": "Cauliflower",
-				"amount": "1 head"
-			},
-			{
-				"name": "Onion",
+				"name": "Zucchini",
 				"amount": "1"
 			},
 			{
-				"name": "Curry powder",
-				"amount": "2 tablespoons"
+				"name": "Kichererbsen",
+				"amount": "1 Dose"
+			},
+			{
+				"name": "Kokosmilch",
+				"amount": "400 ml"
 			}
 		]
 	},
 	{
-		"title": "Caprese Salad",
+		"title": "Caprese-Salat",
 		"ingredients": [
 			{
-				"name": "Tomatoes",
+				"name": "Tomaten",
 				"amount": "4"
 			},
 			{
-				"name": "Fresh mozzarella",
+				"name": "Büffelmozzarella",
 				"amount": "200g"
 			},
 			{
-				"name": "Basil leaves",
-				"amount": "1/2 cup"
+				"name": "Basilikumblätter",
+				"amount": "1/2 Tasse"
 			},
 			{
-				"name": "Extra virgin olive oil",
-				"amount": "2 tablespoons"
+				"name": "Olivenöl",
+				"amount": "2 EL"
 			},
 			{
-				"name": "Balsamic vinegar",
-				"amount": "1 tablespoon"
+				"name": "Balsamico-Essig",
+				"amount": "1 EL"
+			}
+		]
+	},
+	{
+		"title": "Vegetarische Lasagne",
+		"ingredients": [
+			{
+				"name": "Lasagneblätter",
+				"amount": "9 Stück"
+			},
+			{
+				"name": "Zucchini",
+				"amount": "2"
+			},
+			{
+				"name": "Paprika",
+				"amount": "1"
+			},
+			{
+				"name": "Spinat",
+				"amount": "200g"
+			},
+			{
+				"name": "Mozzarella",
+				"amount": "200g"
+			}
+		]
+	},
+	{
+		"title": "Quinoa-Salat",
+		"ingredients": [
+			{
+				"name": "Quinoa",
+				"amount": "1 Tasse"
+			},
+			{
+				"name": "Gurke",
+				"amount": "1"
+			},
+			{
+				"name": "Cherrytomaten",
+				"amount": "1 Tasse"
+			},
+			{
+				"name": "Feta-Käse",
+				"amount": "150g"
+			},
+			{
+				"name": "Olivenöl",
+				"amount": "3 EL"
+			}
+		]
+	},
+	{
+		"title": "Gemüsepfanne mit Tofu",
+		"ingredients": [
+			{
+				"name": "Brokkoli",
+				"amount": "1 Kopf"
+			},
+			{
+				"name": "Karotten",
+				"amount": "2"
+			},
+			{
+				"name": "Paprika",
+				"amount": "1"
+			},
+			{
+				"name": "Tofu",
+				"amount": "200g"
+			},
+			{
+				"name": "Sojasauce",
+				"amount": "2 EL"
 			}
 		]
 	}
