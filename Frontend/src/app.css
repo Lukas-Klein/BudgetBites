@@ -1,0 +1,6 @@
+.recipeWrapper {
+	display: grid;
+	align-content: center;
+	height: 88vh;
+	margin: 0 3rem;
+}

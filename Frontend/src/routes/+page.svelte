@@ -1,2 +1,16 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import { Accordion } from 'flowbite-svelte';
+	import Navbar from '../components/navbar.svelte';
+	import Recipes from '../recipes.json';
+	import RecipeAccordion from '../components/recipeAccordion.svelte';
+	import '../app.css';
+</script>
+
+<Navbar />
+<div class="recipeWrapper">
+	<Accordion>
+		{#each Recipes as recipe}
+			<RecipeAccordion {recipe} />
+		{/each}
+	</Accordion>
+</div>

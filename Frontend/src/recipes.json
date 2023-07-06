@@ -1,0 +1,127 @@
+[
+	{
+		"title": "Pasta Carbonara",
+		"ingredients": [
+			{
+				"name": "Spaghetti",
+				"amount": "200g"
+			},
+			{
+				"name": "Bacon",
+				"amount": "150g"
+			},
+			{
+				"name": "Eggs",
+				"amount": "2"
+			},
+			{
+				"name": "Parmesan cheese",
+				"amount": "50g"
+			},
+			{
+				"name": "Black pepper",
+				"amount": "to taste"
+			}
+		]
+	},
+	{
+		"title": "Chicken Stir-Fry",
+		"ingredients": [
+			{
+				"name": "Chicken breast",
+				"amount": "2"
+			},
+			{
+				"name": "Bell peppers",
+				"amount": "2"
+			},
+			{
+				"name": "Broccoli",
+				"amount": "1 head"
+			},
+			{
+				"name": "Soy sauce",
+				"amount": "2 tablespoons"
+			},
+			{
+				"name": "Garlic",
+				"amount": "3 cloves"
+			}
+		]
+	},
+	{
+		"title": "Chocolate Chip Cookies",
+		"ingredients": [
+			{
+				"name": "Flour",
+				"amount": "2 cups"
+			},
+			{
+				"name": "Butter",
+				"amount": "1 cup"
+			},
+			{
+				"name": "Sugar",
+				"amount": "1 cup"
+			},
+			{
+				"name": "Chocolate chips",
+				"amount": "2 cups"
+			},
+			{
+				"name": "Vanilla extract",
+				"amount": "1 teaspoon"
+			}
+		]
+	},
+	{
+		"title": "Vegetable Curry",
+		"ingredients": [
+			{
+				"name": "Potatoes",
+				"amount": "3"
+			},
+			{
+				"name": "Carrots",
+				"amount": "2"
+			},
+			{
+				"name": "Cauliflower",
+				"amount": "1 head"
+			},
+			{
+				"name": "Onion",
+				"amount": "1"
+			},
+			{
+				"name": "Curry powder",
+				"amount": "2 tablespoons"
+			}
+		]
+	},
+	{
+		"title": "Caprese Salad",
+		"ingredients": [
+			{
+				"name": "Tomatoes",
+				"amount": "4"
+			},
+			{
+				"name": "Fresh mozzarella",
+				"amount": "200g"
+			},
+			{
+				"name": "Basil leaves",
+				"amount": "1/2 cup"
+			},
+			{
+				"name": "Extra virgin olive oil",
+				"amount": "2 tablespoons"
+			},
+			{
+				"name": "Balsamic vinegar",
+				"amount": "1 tablespoon"
+			}
+		]
+	}
+]
