@@ -4,3 +4,12 @@
 	height: 88vh;
 	margin: 0 3rem;
 }
+
+.dropdownOfferWrapper {
+	display: flex;
+	gap: 2rem;
+}
+
+.shopImage {
+	height: 20px;
+}

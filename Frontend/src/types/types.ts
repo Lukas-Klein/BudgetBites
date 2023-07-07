@@ -6,6 +6,7 @@ export interface iRecipe {
 export interface iIngredient {
 	name: string;
 	amount: string;
+	isDiscounted?: boolean;
 }
 
 export interface iOffer {

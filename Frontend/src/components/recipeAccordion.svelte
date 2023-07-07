@@ -1,32 +1,34 @@
 <script lang="ts">
-	import { Accordion, AccordionItem, Span } from 'flowbite-svelte';
-	import type { iOffer, iRecipe } from '../types/types';
+	import { Indicator, AccordionItem, Span, Accordion, Img } from 'flowbite-svelte';
+	import type { iIngredient, iOffer, iRecipe } from '../types/types';
 	import Offers from '../../../Scraping/offers.json';
 
 	export let recipe: iRecipe;
 
-	function searchIngredientOffers(recipe: iRecipe): iOffer[] {
-		const recipeIngredientNames = recipe.ingredients.map((ingredient) => ingredient.name);
+	let matchingOffers: { offer: iOffer; ingredient: iIngredient }[] = [];
 
-		try {
-			const ingredientOffers: iOffer[] = Offers;
+	function findDiscountedIngredients(
+		recipe: iRecipe
+	): { offer: iOffer; ingredient: iIngredient }[] {
+		const discountedIngredients: { offer: iOffer; ingredient: iIngredient }[] = [];
 
-			const matchingOffers = ingredientOffers.filter((offer) => {
-				return recipeIngredientNames.some((ingredientName) => {
-					const regex = new RegExp(`\\b${ingredientName}\\b`, 'gi'); // Match whole word only
-					return regex.test(offer.name);
+		recipe.ingredients.forEach((ingredient: iIngredient) => {
+			const matchingOffers = Offers.filter((offer: iOffer) =>
+				offer.name.toLowerCase().includes(ingredient.name.toLowerCase())
+			);
+			if (matchingOffers.length > 0) {
+				ingredient.isDiscounted = true;
+				matchingOffers.forEach((offer: iOffer) => {
+					discountedIngredients.push({ offer, ingredient });
 				});
-			});
-
-			return matchingOffers;
-		} catch (error) {
-			console.error('Error reading or parsing JSON file:', error);
-			return [];
-		}
+			} else {
+				ingredient.isDiscounted = false;
+			}
+		});
+		return discountedIngredients;
 	}
 
-	let matchingOffers = searchIngredientOffers(recipe);
-	console.log(matchingOffers);
+	matchingOffers = findDiscountedIngredients(recipe);
 </script>
 
 <AccordionItem>
@@ -62,9 +64,26 @@
 		>
 	</span>
 	{#each recipe.ingredients as ingredient}
-		<p class="mb-2 text-gray-500 dark:text-gray-400">
-			{ingredient.name}
-			<Span align="right">{ingredient.amount}</Span>
-		</p>
+		<Accordion flush>
+			<AccordionItem>
+				<span class="flex items-center gap-x-2" slot="header">
+					{ingredient.name}
+					<Span align="right">{ingredient.amount}</Span>
+					<span style="" class="float-right inline-block pr-2">
+						<Indicator color={ingredient.isDiscounted ? 'green' : 'red'} />
+					</span>
+				</span>
+				{#if ingredient.isDiscounted}
+					{#each matchingOffers.filter((mo) => mo.ingredient.name === ingredient.name) as { offer, ingredient: iIngredient }}
+						<p class="mb-2 text-gray-500 dark:text-gray-400 dropdownOfferWrapper">
+							{offer.name}
+							<Span align="right">{offer.price}</Span>
+							<Img class="shopImage" src="{offer.shop.toLowerCase()}.svg" />
+							<Span align="right">{offer.date}</Span>
+						</p>
+					{/each}
+				{/if}
+			</AccordionItem>
+		</Accordion>
 	{/each}
 </AccordionItem>
