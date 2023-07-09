@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { Indicator, AccordionItem, Span, Accordion, Img } from 'flowbite-svelte';
-	import type { iIngredient, iOffer, iRecipe } from '../types/types';
+	import type { iIngredient, iOffer, iRecipe } from '../services/types';
 	import Offers from '../../../Scraping/offers.json';
 
 	export let recipe: iRecipe;
