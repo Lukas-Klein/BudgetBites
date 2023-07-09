@@ -34,3 +34,10 @@
 	grid-template-columns: 3fr 1fr;
 	grid-gap: 1rem;
 }
+
+.authWrapper {
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	height: 100vh;
+}

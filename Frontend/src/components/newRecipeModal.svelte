@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { Button, Label, Modal, Input } from 'flowbite-svelte';
-	import { addRecipeModalOpen, getRecipes, saveRecipe } from '../services/stores';
+	import { addRecipeModalOpen, getRecipes, saveRecipe, user } from '../services/stores';
 	import type { iIngredient } from '../services/types';
 
 	let recipeName = '';
@@ -99,7 +99,7 @@
 	<svelte:fragment slot="footer">
 		<Button
 			on:click={() => {
-				saveRecipe(recipeName, ingredients);
+				saveRecipe(recipeName, ingredients, $user.id);
 			}}>Save</Button
 		>
 		<Button color="alternative">Cancel</Button>
