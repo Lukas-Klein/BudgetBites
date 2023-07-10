@@ -7,7 +7,6 @@
 	import { supabase } from '../supabase';
 
 	onMount(async () => {
-		console.log(await supabase.auth.getUser());
 		user.set(supabase.auth.getUser());
 
 		supabase.auth.onAuthStateChange((_, session) => {
@@ -19,11 +18,11 @@
 
 {#if $user}
 	<Navbar />
-	<div id="app">
+	<div class="app">
 		<slot />
 	</div>
 {:else}
-	<div id="app">
+	<div class="app">
 		<div class="authWrapper">
 			<Auth />
 		</div>
