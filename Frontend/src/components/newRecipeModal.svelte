@@ -31,6 +31,12 @@
 			ingredients.pop();
 		}
 	}
+
+	function resetValues() {
+		recipeName = '';
+		ingredientCount = 1;
+		ingredients = [{ name: '', amount: '' }];
+	}
 </script>
 
 <Modal title="New Recipe: {recipeName}" bind:open={$addRecipeModalOpen} outsideclose>
@@ -99,7 +105,7 @@
 	<svelte:fragment slot="footer">
 		<Button
 			on:click={() => {
-				saveRecipe(recipeName, ingredients, $user.id);
+				saveRecipe(recipeName, ingredients, $user.id), resetValues();
 			}}>Save</Button
 		>
 		<Button color="alternative">Cancel</Button>

@@ -17,12 +17,13 @@
 		addRecipeModalOpen,
 		deleteRecipe,
 		findDiscountedIngredients,
-		getRecipes
+		getRecipes,
+		removeRecipeModalOpen
 	} from '../services/stores';
 	import NewRecipeModal from '../components/newRecipeModal.svelte';
 	import { onMount } from 'svelte';
-	import RecipeAccordion from '../components/recipeAccordion.svelte';
 	import type { iRecipe } from '../services/types';
+	import RemoveRecipeModal from '../components/removeRecipeModal.svelte';
 
 	const amountOfDiscountedIngredients = (recipe: iRecipe) => {
 		let count = 0;
@@ -37,6 +38,10 @@
 		$Recipes.forEach((element) => {
 			findDiscountedIngredients(element);
 		});
+	});
+
+	$: $Recipes.forEach((element) => {
+		findDiscountedIngredients(element);
 	});
 </script>
 
@@ -82,7 +87,9 @@
 						<TableBodyCell>{amountOfDiscountedIngredients(recipe)}</TableBodyCell>
 						<TableBodyCell>
 							<svg
-								on:click={() => deleteRecipe(recipe.id)}
+								on:click={() => {
+									removeRecipeModalOpen.set({ open: true, id: recipe.id });
+								}}
 								class="w-4 h-4 text-gray-800 dark:text-white cursor-pointer hover:text-red-500 dark:hover:text-red-400"
 								aria-hidden="true"
 								xmlns="http://www.w3.org/2000/svg"
@@ -104,3 +111,4 @@
 		</Table>
 	{/key}
 </div>
+<RemoveRecipeModal />

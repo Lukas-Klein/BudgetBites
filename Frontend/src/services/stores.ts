@@ -6,6 +6,11 @@ import Offers from '../../../Scraping/offers.json';
 
 export const addRecipeModalOpen = writable<boolean>(false);
 
+export const removeRecipeModalOpen = writable<{ open: boolean; id: number }>({
+	open: false,
+	id: 0
+});
+
 export const Recipes = writable<iRecipe[]>([]);
 
 export const user = writable<User>();
@@ -57,6 +62,8 @@ export async function deleteRecipe(id: number) {
 	Recipes.update((recipes) => {
 		return recipes.filter((recipe) => recipe.id !== id);
 	});
+
+	removeRecipeModalOpen.set({ open: false, id: 0 });
 }
 
 export function findDiscountedIngredients(
