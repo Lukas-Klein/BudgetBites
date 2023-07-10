@@ -1,28 +1,41 @@
 <script lang="ts">
-	import { Label, Input, CloseButton, Button } from 'flowbite-svelte';
+	import { Label, Input, CloseButton, Button, Img } from 'flowbite-svelte';
 	import { supabase } from '../supabase';
+	import type { Provider } from '@supabase/supabase-js';
 
 	let loading = false;
 	let email = '';
 
-	const handleLogin = async () => {
+	async function loginOtp() {
 		try {
 			loading = true;
 			const { error } = await supabase.auth.signInWithOtp({
 				email: email
 			});
-
 			if (error) throw error;
 		} catch (error) {
 			console.log(error);
 		} finally {
 			loading = false;
 		}
-	};
+	}
+
+	async function loginOAuth(provider: Provider) {
+		try {
+			loading = true;
+			supabase.auth.signInWithOAuth({
+				provider: provider
+			});
+		} catch (error) {
+			console.log(error);
+		} finally {
+			loading = false;
+		}
+	}
 </script>
 
-<div class="my-2">
-	<form on:submit|preventDefault={handleLogin}>
+<div class="my-2" style="width: 30vw;">
+	<form on:submit|preventDefault={loginOtp}>
 		<Label class="space-y-2">
 			<span>E-Mail Address</span>
 			<Input bind:value={email} type="email" placeholder="yourName@rightHere.com" size="md">
@@ -39,6 +52,17 @@
 				>
 			</Input>
 		</Label>
-		<Button class="my-2" type="submit">Log In</Button>
+		<Button class="my-3" type="submit">Log In</Button>
 	</form>
+	<div class="flex flex-col">
+		<Button outline class="my-2" type="submit" on:click={() => loginOAuth('google')}
+			><Img class="h-5 pr-1" src="./google.svg" /> Log In with Google</Button
+		>
+		<Button outline class="my-2" type="submit" on:click={() => loginOAuth('github')}
+			><Img class="h-5 pr-1" src="./github.svg" />Log In with Github</Button
+		>
+		<Button outline class="my-2" type="submit" on:click={() => loginOAuth('discord')}
+			><Img class="h-5 pr-1" src="./discord.svg" />Log In with Discord</Button
+		>
+	</div>
 </div>

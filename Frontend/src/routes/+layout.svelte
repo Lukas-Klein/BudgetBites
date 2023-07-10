@@ -23,7 +23,9 @@
 		<slot />
 	</div>
 {:else}
-	<div id="app" class="authWrapper">
-		<Auth />
+	<div id="app">
+		<div class="authWrapper">
+			<Auth />
+		</div>
 	</div>
 {/if}

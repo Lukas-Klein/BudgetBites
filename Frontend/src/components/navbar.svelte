@@ -92,7 +92,7 @@
 				>
 			</svelte:fragment>
 		</DarkMode>
-		<Button on:click={logout} class="mx-1 px-3">
+		<Button on:click={logout} class="mx-1 px-3" title="Logout">
 			<svg
 				class="w-5 h-5 text-gray-800 dark:text-white"
 				aria-hidden="true"

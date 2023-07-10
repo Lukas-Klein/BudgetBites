@@ -15,10 +15,6 @@
 	gap: 2rem;
 }
 
-.shopImage {
-	height: 20px;
-}
-
 .addRecipeWrapper {
 	display: flex;
 	justify-content: flex-end;
@@ -36,8 +32,9 @@
 }
 
 .authWrapper {
-	display: flex !important;
-	justify-content: center !important;
-	align-items: center !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	height: 100vh;
+	margin: 0;
 }

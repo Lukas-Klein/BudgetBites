@@ -78,7 +78,7 @@
 						<p class="mb-2 text-gray-500 dark:text-gray-400 dropdownOfferWrapper">
 							{offer.name}
 							<Span align="right">{offer.price}</Span>
-							<Img class="shopImage" src="{offer.shop.toLowerCase()}.svg" />
+							<Img class="h-5" src="{offer.shop.toLowerCase()}.svg" />
 							<Span align="right">{offer.date}</Span>
 						</p>
 					{/each}
