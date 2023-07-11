@@ -3,6 +3,7 @@ import { supabase } from '../supabase';
 import type { iIngredient, iOffer, iRecipe } from './types';
 import type { User } from '@supabase/supabase-js';
 import Offers from '../../../Scraping/offers.json';
+import Blocklist from '../blockList.json';
 
 export const addRecipeModalOpen = writable<boolean>(false);
 
@@ -35,7 +36,6 @@ export async function getRecipeByID(id: string): Promise<iRecipe[]> {
 	if (error) {
 		console.log(error);
 	} else if (recipes) {
-		// return setIsDiscounted(recipes);
 		return recipes;
 	}
 	return [];
@@ -67,18 +67,6 @@ export async function deleteRecipe(id: number) {
 	removeRecipeModalOpen.set({ open: false, id: 0 });
 }
 
-// export function setIsDiscounted(recipes: iRecipe[]) {
-// 	recipes.forEach((recipe: iRecipe) => {
-// 		recipe.ingredients.forEach((ingredient: iIngredient) => {
-// 			const matchingOffers = Offers.filter((offer: iOffer) =>
-// 				new RegExp(`\\b${ingredient.name}\\b`, 'i').test(offer.name)
-// 			);
-// 			ingredient.isDiscounted = matchingOffers.length > 0;
-// 		});
-// 	});
-// 	return recipes;
-// }
-
 export function findDiscountedIngredients(
 	recipe: iRecipe
 ): { offer: iOffer; ingredient: iIngredient }[] {
@@ -87,7 +75,23 @@ export function findDiscountedIngredients(
 	recipe.ingredients.forEach((ingredient: iIngredient) => {
 		const matchingOffers = Offers.filter((offer: iOffer) => {
 			const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
-			return regex.test(offer.name);
+			let blockedWords: string[] = [];
+			Blocklist.forEach((ingredientsBlocked) => {
+				if (ingredientsBlocked.name === ingredient.name) {
+					blockedWords = ingredientsBlocked.blockedWords;
+				}
+			});
+
+			let blockedWordsInOffer: boolean = false;
+			if (blockedWords.length > 0) {
+				blockedWords.forEach((word) => {
+					if (offer.name.includes(word)) {
+						blockedWordsInOffer = true;
+					}
+				});
+			}
+
+			return regex.test(offer.name) && !blockedWordsInOffer;
 		});
 		if (matchingOffers.length > 0) {
 			ingredient.isDiscounted = true;
