@@ -38,3 +38,9 @@
 	height: 100vh;
 	margin: 0;
 }
+
+.breadCrumb {
+	position: absolute;
+	top: 110px;
+	left: 15px;
+}

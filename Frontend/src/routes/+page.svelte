@@ -1,9 +1,6 @@
 <script lang="ts">
 	import {
-		A,
-		Accordion,
 		Button,
-		Checkbox,
 		Table,
 		TableBody,
 		TableBodyCell,
@@ -15,15 +12,16 @@
 	import {
 		Recipes,
 		addRecipeModalOpen,
-		deleteRecipe,
 		findDiscountedIngredients,
 		getRecipes,
-		removeRecipeModalOpen
+		removeRecipeModalOpen,
+		user
 	} from '../services/stores';
 	import NewRecipeModal from '../components/newRecipeModal.svelte';
 	import { onMount } from 'svelte';
 	import type { iRecipe } from '../services/types';
 	import RemoveRecipeModal from '../components/removeRecipeModal.svelte';
+	import { writable } from 'svelte/store';
 
 	const amountOfDiscountedIngredients = (recipe: iRecipe) => {
 		let count = 0;
@@ -82,7 +80,7 @@
 			<TableBody>
 				{#each $Recipes as recipe, i}
 					<TableBodyRow>
-						<TableBodyCell><a href="/{recipe.id}">{recipe.title}</a></TableBodyCell>
+						<TableBodyCell><a href="/{$user.id}/{recipe.id}">{recipe.title}</a></TableBodyCell>
 						<TableBodyCell>{recipe.ingredients.length}</TableBodyCell>
 						<TableBodyCell>{amountOfDiscountedIngredients(recipe)}</TableBodyCell>
 						<TableBodyCell>

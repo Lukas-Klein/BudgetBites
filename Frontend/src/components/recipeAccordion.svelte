@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { Indicator, AccordionItem, Span, Accordion, Img } from 'flowbite-svelte';
 	import type { iIngredient, iOffer, iRecipe } from '../services/types';
-	import Offers from '../../../Scraping/offers.json';
 	import { findDiscountedIngredients } from '../services/stores';
 
 	export let recipe: iRecipe;
@@ -59,7 +58,7 @@
 							<p class="mb-2 text-gray-500 dark:text-gray-400 dropdownOfferWrapper">
 								{offer.name}
 								<Span align="right">{offer.price}</Span>
-								<Img class="h-5" src="{offer.shop.toLowerCase()}.svg" />
+								<Img class="h-5" src="/{offer.shop.toLowerCase()}.svg" />
 								<Span align="right">{offer.date}</Span>
 							</p>
 						{/each}

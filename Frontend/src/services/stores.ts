@@ -35,6 +35,7 @@ export async function getRecipeByID(id: string): Promise<iRecipe[]> {
 	if (error) {
 		console.log(error);
 	} else if (recipes) {
+		// return setIsDiscounted(recipes);
 		return recipes;
 	}
 	return [];
@@ -65,6 +66,18 @@ export async function deleteRecipe(id: number) {
 
 	removeRecipeModalOpen.set({ open: false, id: 0 });
 }
+
+// export function setIsDiscounted(recipes: iRecipe[]) {
+// 	recipes.forEach((recipe: iRecipe) => {
+// 		recipe.ingredients.forEach((ingredient: iIngredient) => {
+// 			const matchingOffers = Offers.filter((offer: iOffer) =>
+// 				new RegExp(`\\b${ingredient.name}\\b`, 'i').test(offer.name)
+// 			);
+// 			ingredient.isDiscounted = matchingOffers.length > 0;
+// 		});
+// 	});
+// 	return recipes;
+// }
 
 export function findDiscountedIngredients(
 	recipe: iRecipe
