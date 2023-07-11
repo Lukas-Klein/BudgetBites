@@ -1,5 +1,17 @@
 <script lang="ts">
-	import { Indicator, AccordionItem, Span, Accordion, Img } from 'flowbite-svelte';
+	import {
+		Indicator,
+		AccordionItem,
+		Span,
+		Accordion,
+		Img,
+		Table,
+		TableHead,
+		TableHeadCell,
+		TableBody,
+		TableBodyCell,
+		TableBodyRow
+	} from 'flowbite-svelte';
 	import type { iIngredient, iOffer, iRecipe } from '../services/types';
 	import { findDiscountedIngredients } from '../services/stores';
 
@@ -54,14 +66,26 @@
 						</span>
 					</span>
 					{#if ingredient.isDiscounted}
-						{#each matchingOffers.filter((mo) => mo.ingredient.name === ingredient.name) as { offer, ingredient: iIngredient }}
-							<p class="mb-2 text-gray-500 dark:text-gray-400 dropdownOfferWrapper">
-								{offer.name}
-								<Span align="right">{offer.price}</Span>
-								<Img class="h-5" src="/{offer.shop.toLowerCase()}.svg" />
-								<Span align="right">{offer.date}</Span>
-							</p>
-						{/each}
+						<Table shadow class="ingredientTable">
+							<TableHead>
+								<TableHeadCell>Product</TableHeadCell>
+								<TableHeadCell>Price</TableHeadCell>
+								<TableHeadCell>Shop</TableHeadCell>
+								<TableHeadCell>Date</TableHeadCell>
+							</TableHead>
+							<TableBody>
+								{#each matchingOffers.filter((mo) => mo.ingredient.name === ingredient.name) as { offer, ingredient: iIngredient }}
+									<TableBodyRow>
+										<TableBodyCell>{offer.name}</TableBodyCell>
+										<TableBodyCell>{offer.price}</TableBodyCell>
+										<TableBodyCell>
+											<Img class="h-5" src="/{offer.shop.toLowerCase()}.svg" />
+										</TableBodyCell>
+										<TableBodyCell>{offer.date}</TableBodyCell>
+									</TableBodyRow>
+								{/each}
+							</TableBody>
+						</Table>
 					{/if}
 				</AccordionItem>
 			</Accordion>

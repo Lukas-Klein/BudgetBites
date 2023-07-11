@@ -6,7 +6,7 @@
 		NavUl,
 		NavHamburger,
 		Button,
-		Input,
+		Span,
 		DarkMode
 	} from 'flowbite-svelte';
 	import { supabase } from '../supabase';
@@ -16,12 +16,12 @@
 	}
 </script>
 
-<Navbar let:hidden let:toggle>
+<Navbar class="bg-slate-300" let:hidden let:toggle>
 	<NavBrand href="/">
 		<img src="/BudgetBites.svg" class="mr-3 h-20 sm:h-15" alt="Flowbite Logo" />
-		<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
+		<Span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
 			BudgetBites
-		</span>
+		</Span>
 	</NavBrand>
 	<div class="flex md:order-2">
 		<Button
@@ -45,26 +45,8 @@
 				/></svg
 			>
 		</Button>
-		<div class="hidden relative md:block">
-			<div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					fill="none"
-					viewBox="0 0 24 24"
-					stroke-width="1.5"
-					stroke="currentColor"
-					class="w-6 h-6 dark:text-white"
-					><path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
-					/></svg
-				>
-			</div>
-			<Input id="search-navbar" class="pl-10" placeholder="Search..." />
-		</div>
 
-		<DarkMode class="text-lg mx-1">
+		<DarkMode class="text-lg mx-2">
 			<svelte:fragment slot="lightIcon">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
@@ -92,9 +74,9 @@
 				>
 			</svelte:fragment>
 		</DarkMode>
-		<Button on:click={logout} class="mx-1 px-3" title="Logout">
+		<Button on:click={logout} class="mx-2 px-3" title="Logout">
 			<svg
-				class="w-5 h-5 text-gray-800 dark:text-white"
+				class="w-5 h-5 text-white"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
@@ -112,8 +94,6 @@
 		<NavHamburger on:click={toggle} />
 	</div>
 	<NavUl {hidden}>
-		<NavLi href="/" active={true}>Home</NavLi>
-		<NavLi href="/about">About</NavLi>
-		<NavLi href="/services">Services</NavLi>
+		<NavLi class="text-black dark:text-white" href="/">Home</NavLi>
 	</NavUl>
 </Navbar>
