@@ -3,7 +3,6 @@ import { supabase } from '../supabase';
 import type { iIngredient, iOffer, iRecipe } from './types';
 import type { User } from '@supabase/supabase-js';
 import Offers from '../../../Scraping/offers.json';
-import Blocklist from '../blockList.json';
 
 export const addRecipeModalOpen = writable<boolean>(false);
 
@@ -67,17 +66,19 @@ export async function deleteRecipe(id: number) {
 	removeRecipeModalOpen.set({ open: false, id: 0 });
 }
 
-export function findDiscountedIngredients(
+export async function findDiscountedIngredients(
 	recipe: iRecipe
-): { offer: iOffer; ingredient: iIngredient }[] {
+): Promise<{ offer: iOffer; ingredient: iIngredient }[]> {
 	const discountedIngredients: { offer: iOffer; ingredient: iIngredient }[] = [];
+
+	const blockList = await getBlockList();
 
 	recipe.ingredients.forEach((ingredient: iIngredient) => {
 		const matchingOffers = Offers.filter((offer: iOffer) => {
 			const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
 			let blockedWords: string[] = [];
-			Blocklist.forEach((ingredientsBlocked) => {
-				if (ingredientsBlocked.name === ingredient.name) {
+			blockList.forEach((ingredientsBlocked) => {
+				if (ingredientsBlocked.ingredient === ingredient.name) {
 					blockedWords = ingredientsBlocked.blockedWords;
 				}
 			});
@@ -103,4 +104,24 @@ export function findDiscountedIngredients(
 		}
 	});
 	return discountedIngredients;
+}
+
+export async function getBlockList() {
+	const { data, error } = await supabase.from('blockedWords').select('ingredient, blockedWords');
+
+	if (error) {
+		console.log(error);
+	} else if (data) {
+		return data;
+	}
+	return [];
+}
+
+export async function setBlockedWords(ingredient: string, blockedWords: string[]) {
+	const { data, error } = await supabase
+		.from('blockedWords')
+		.insert([{ ingredient: ingredient, blockedWords: blockedWords }])
+		.select();
+
+	error ? console.error(error) : null;
 }

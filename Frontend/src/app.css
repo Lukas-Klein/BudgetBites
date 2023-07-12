@@ -44,3 +44,10 @@
 	top: 110px;
 	left: 15px;
 }
+
+.loadingSpinner {
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

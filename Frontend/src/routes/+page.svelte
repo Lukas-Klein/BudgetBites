@@ -14,13 +14,13 @@
 
 	onMount(async () => {
 		Recipes.set(await getRecipes());
-		$Recipes.forEach((element) => {
-			findDiscountedIngredients(element);
+		$Recipes.forEach(async (element) => {
+			await findDiscountedIngredients(element);
 		});
 	});
 
-	$: $Recipes.forEach((element) => {
-		findDiscountedIngredients(element);
+	$: $Recipes.forEach(async (element) => {
+		await findDiscountedIngredients(element);
 	});
 </script>
 
