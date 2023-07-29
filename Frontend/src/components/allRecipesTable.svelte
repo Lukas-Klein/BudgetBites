@@ -6,18 +6,24 @@
 		TableBody,
 		TableBodyRow,
 		TableBodyCell,
-		A
+		A,
+		Spinner
 	} from 'flowbite-svelte';
-	import { Recipes, user, removeRecipeModalOpen } from '../services/stores';
+	import {
+		Recipes,
+		user,
+		removeRecipeModalOpen,
+		findDiscountedIngredients
+	} from '../services/stores';
 	import type { iRecipe } from '../services/types';
-
-	const amountOfDiscountedIngredients = (recipe: iRecipe) => {
+	async function calculateDiscountedIngredients(recipe: iRecipe) {
+		await findDiscountedIngredients(recipe);
 		let count = 0;
 		recipe.ingredients.forEach((ingredient) => {
 			if (ingredient.isDiscounted) count++;
 		});
 		return count;
-	};
+	}
 </script>
 
 <div class="recipeWrapper">
@@ -34,7 +40,15 @@
 					<TableBodyRow>
 						<TableBodyCell><A href="/{$user.id}/{recipe.id}">{recipe.title}</A></TableBodyCell>
 						<TableBodyCell>{recipe.ingredients.length}</TableBodyCell>
-						<TableBodyCell>{amountOfDiscountedIngredients(recipe)}</TableBodyCell>
+						{#await calculateDiscountedIngredients(recipe)}
+							<TableBodyCell>
+								<Spinner size="5" />
+							</TableBodyCell>
+						{:then count}
+							<TableBodyCell>{count}</TableBodyCell>
+						{:catch error}
+							<TableBodyCell>Error: {error.message}</TableBodyCell>
+						{/await}
 						<TableBodyCell>
 							<svg
 								on:click={() => {

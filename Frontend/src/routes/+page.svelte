@@ -8,17 +8,13 @@
 		getRecipes
 	} from '../services/stores';
 	import NewRecipeModal from '../components/newRecipeModal.svelte';
-	import { onMount } from 'svelte';
 	import RemoveRecipeModal from '../components/removeRecipeModal.svelte';
 	import AllRecipesTable from '../components/allRecipesTable.svelte';
+	import { onMount } from 'svelte';
 
 	onMount(async () => {
 		Recipes.set(await getRecipes());
-		$Recipes.forEach(async (element) => {
-			await findDiscountedIngredients(element);
-		});
 	});
-
 	$: $Recipes.forEach(async (element) => {
 		await findDiscountedIngredients(element);
 	});
