@@ -3,6 +3,43 @@
 	margin: 0 auto;
 }
 
+/* Logout Button styling and animation */
+.logoutButton {
+	transition-duration: 0.3s;
+	width: 48px;
+}
+.logoutButton:hover {
+	transition-duration: 0.3s;
+	width: 101px;
+}
+
+.logoutButton:hover .logoutIcon {
+	transition-duration: 0.3s;
+}
+/* hover effect button's text */
+.logoutButton:hover .logoutText {
+	visibility: visible;
+	opacity: 1;
+	width: 70%;
+	transition-duration: 0.3s;
+	padding-left: 7px;
+}
+/* button click effect*/
+.logoutButton:active {
+	transform: translate(2px, 2px);
+}
+
+.logoutIcon {
+	transition-duration: 0.3s;
+}
+
+.logoutText {
+	visibility: hidden;
+	opacity: 0;
+	width: 0;
+	transition-duration: 0.3s;
+}
+
 .recipeWrapper {
 	display: grid;
 	align-content: center;
