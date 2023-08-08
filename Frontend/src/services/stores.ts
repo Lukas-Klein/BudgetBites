@@ -3,6 +3,7 @@ import { supabase } from '../supabase';
 import type { iIngredient, iOffer, iRecipe } from './types';
 import type { User } from '@supabase/supabase-js';
 import Offers from '../../../Scraping/offers.json';
+// Use for Debug Purposes
 // import Offers from '../../../Scraping/testoffers.json';
 
 export const addRecipeModalOpen = writable<boolean>(false);
@@ -86,45 +87,55 @@ export async function editRecipe(recipe: iRecipe, user_id: string) {
 	location.reload();
 }
 
+// Define the function to find all discounted ingredients
 export async function findAllDiscountedIngredients(
 	allRecipes: iRecipe[]
 ): Promise<{ offer: iOffer; ingredient: iIngredient }[]> {
 	const discountedIngredients: { offer: iOffer; ingredient: iIngredient }[] = [];
 
+	// Fetch the block list asynchronously
 	const blockList = await getBlockList();
 
+	// Loop through each recipe
 	allRecipes.forEach((recipe: iRecipe) => {
 		recipe.ingredients.forEach((ingredient: iIngredient) => {
-			const matchingOffers = Offers.filter((offer: iOffer) => {
-				const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
-				let blockedWords: string[] = [];
-				blockList.forEach((ingredientsBlocked) => {
-					if (ingredientsBlocked.ingredient === ingredient.name) {
-						blockedWords = ingredientsBlocked.blockedWords;
-					}
-				});
-				let blockedWordsInOffer: boolean = false;
-				if (blockedWords.length > 0) {
-					blockedWords.forEach((word) => {
-						if (offer.name.includes(word)) {
-							blockedWordsInOffer = true;
-						}
-					});
-				}
+			// Prepare a regular expression to match ingredient names case-insensitively
+			const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
 
+			// Initialize a variable to track if blocked words are found in the offer
+			let blockedWordsInOffer = false;
+
+			// Find blocked words for the current ingredient
+			const blockedWords = blockList
+				.filter((blockedIngredient) => blockedIngredient.ingredient === ingredient.name)
+				.flatMap((blockedIngredient) => blockedIngredient.blockedWords);
+
+			// Loop through offers to find matching offers and check for blocked words
+			const matchingOffers = Offers.filter((offer: iOffer) => {
+				blockedWordsInOffer = blockedWords.some((word) => offer.name.includes(word));
 				return regex.test(offer.name) && !blockedWordsInOffer;
 			});
 
+			// Update the 'isDiscounted' flag based on matching offers
 			if (matchingOffers.length > 0) {
 				ingredient.isDiscounted = true;
 				matchingOffers.forEach((offer: iOffer) => {
-					discountedIngredients.push({ offer, ingredient });
+					// Check if the entry already exists in discountedIngredients
+					const existingEntry = discountedIngredients.some(
+						(entry) => entry.offer === offer && entry.ingredient.name === ingredient.name
+					);
+
+					// Add the entry if it doesn't exist
+					if (!existingEntry) {
+						discountedIngredients.push({ offer, ingredient });
+					}
 				});
 			} else {
 				ingredient.isDiscounted = false;
 			}
 		});
 	});
+
 	return discountedIngredients;
 }
 
