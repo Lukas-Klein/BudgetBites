@@ -76,7 +76,7 @@
 		</DarkMode>
 		<Button on:click={logout} class="mx-2 px-3 logoutButton" title="Logout">
 			<svg
-				class="w-5 h-5 text-white ml-1 logoutIcon"
+				class="w-5 h-5 text-white logoutIcon"
 				aria-hidden="true"
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"

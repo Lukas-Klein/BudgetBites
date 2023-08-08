@@ -1,8 +1,15 @@
-import { getRecipeByID } from '../../../services/stores';
+import { get } from 'svelte/store';
+import { findDiscountedIngredientsOfRecipe, getRecipes } from '../../../services/stores';
 
 export const load = ({ params }) => {
 	const fetchRecipe = async (id: string) => {
-		return getRecipeByID(id);
+		const allRecipes = await getRecipes();
+		const recipe = allRecipes.find((recipe) => recipe.id === Number(id));
+		if (!recipe) {
+			return null;
+		}
+		findDiscountedIngredientsOfRecipe(recipe);
+		return recipe;
 	};
 
 	return {

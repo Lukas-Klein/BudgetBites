@@ -1,12 +1,7 @@
 <script lang="ts">
 	import { Button } from 'flowbite-svelte';
 	import '../app.css';
-	import {
-		Recipes,
-		addRecipeModalOpen,
-		findDiscountedIngredients,
-		getRecipes
-	} from '../services/stores';
+	import { Recipes, addRecipeModalOpen, getRecipes } from '../services/stores';
 	import NewRecipeModal from '../components/newRecipeModal.svelte';
 	import RemoveRecipeModal from '../components/removeRecipeModal.svelte';
 	import AllRecipesTable from '../components/allRecipesTable.svelte';
@@ -14,9 +9,6 @@
 
 	onMount(async () => {
 		Recipes.set(await getRecipes());
-	});
-	$: $Recipes.forEach(async (element) => {
-		await findDiscountedIngredients(element);
 	});
 </script>
 

@@ -2,6 +2,7 @@ export interface iRecipe {
 	id: number;
 	title: string;
 	ingredients: iIngredient[];
+	amountOfDiscountedIngredients?: number;
 }
 
 export interface iIngredient {

@@ -4,10 +4,21 @@
 	import RecipeAccordion from '../../../components/recipeAccordion.svelte';
 
 	export let data;
-	const { recipe } = data;
-
-	const fetchedRecipe = data.recipe[0];
+	const fetchedRecipe = data;
 </script>
 
-<BreadCrumb recipe={fetchedRecipe} />
-<RecipeAccordion recipe={fetchedRecipe} />
+<svelte:head>
+	{#if fetchedRecipe.recipe}
+		<title>{fetchedRecipe.recipe.title}</title>
+	{:else}
+		<title>404</title>
+	{/if}
+</svelte:head>
+
+{#if fetchedRecipe.recipe}
+	<BreadCrumb recipe={fetchedRecipe.recipe} />
+	<RecipeAccordion recipe={fetchedRecipe.recipe} />
+{:else}
+	<h1>404</h1>
+	<p>Recipe not found</p>
+{/if}

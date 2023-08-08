@@ -18,6 +18,8 @@ export const Recipes = writable<iRecipe[]>([]);
 
 export const user = writable<User>();
 
+export const discountedIngredients = writable<{ offer: iOffer; ingredient: iIngredient }[]>([]);
+
 export async function getRecipes(): Promise<iRecipe[]> {
 	let { data: recipes, error } = await supabase.from('recipes').select('id, title, ingredients');
 
@@ -84,43 +86,52 @@ export async function editRecipe(recipe: iRecipe, user_id: string) {
 	location.reload();
 }
 
-export async function findDiscountedIngredients(
-	recipe: iRecipe
+export async function findAllDiscountedIngredients(
+	allRecipes: iRecipe[]
 ): Promise<{ offer: iOffer; ingredient: iIngredient }[]> {
 	const discountedIngredients: { offer: iOffer; ingredient: iIngredient }[] = [];
 
 	const blockList = await getBlockList();
 
-	recipe.ingredients.forEach((ingredient: iIngredient) => {
-		const matchingOffers = Offers.filter((offer: iOffer) => {
-			const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
-			let blockedWords: string[] = [];
-			blockList.forEach((ingredientsBlocked) => {
-				if (ingredientsBlocked.ingredient === ingredient.name) {
-					blockedWords = ingredientsBlocked.blockedWords;
-				}
-			});
-			let blockedWordsInOffer: boolean = false;
-			if (blockedWords.length > 0) {
-				blockedWords.forEach((word) => {
-					if (offer.name.includes(word)) {
-						blockedWordsInOffer = true;
+	allRecipes.forEach((recipe: iRecipe) => {
+		recipe.ingredients.forEach((ingredient: iIngredient) => {
+			const matchingOffers = Offers.filter((offer: iOffer) => {
+				const regex = new RegExp(`\\b${ingredient.name}\\b`, 'i');
+				let blockedWords: string[] = [];
+				blockList.forEach((ingredientsBlocked) => {
+					if (ingredientsBlocked.ingredient === ingredient.name) {
+						blockedWords = ingredientsBlocked.blockedWords;
 					}
 				});
-			}
+				let blockedWordsInOffer: boolean = false;
+				if (blockedWords.length > 0) {
+					blockedWords.forEach((word) => {
+						if (offer.name.includes(word)) {
+							blockedWordsInOffer = true;
+						}
+					});
+				}
 
-			return regex.test(offer.name) && !blockedWordsInOffer;
-		});
-		if (matchingOffers.length > 0) {
-			ingredient.isDiscounted = true;
-			matchingOffers.forEach((offer: iOffer) => {
-				discountedIngredients.push({ offer, ingredient });
+				return regex.test(offer.name) && !blockedWordsInOffer;
 			});
-		} else {
-			ingredient.isDiscounted = false;
-		}
+
+			if (matchingOffers.length > 0) {
+				ingredient.isDiscounted = true;
+				matchingOffers.forEach((offer: iOffer) => {
+					discountedIngredients.push({ offer, ingredient });
+				});
+			} else {
+				ingredient.isDiscounted = false;
+			}
+		});
 	});
 	return discountedIngredients;
+}
+
+export function findDiscountedIngredientsOfRecipe(
+	recipe: iRecipe
+): Promise<{ offer: iOffer; ingredient: iIngredient }[]> {
+	return findAllDiscountedIngredients([recipe]);
 }
 
 export async function getBlockList() {

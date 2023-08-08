@@ -17,18 +17,19 @@
 		Input,
 		Helper
 	} from 'flowbite-svelte';
-	import type { iIngredient, iOffer, iRecipe } from '../services/types';
+	import type { iOffer, iRecipe } from '../services/types';
 	import {
 		addToBlocklist,
-		findDiscountedIngredients,
-		editRecipeModalOpen
+		findAllDiscountedIngredients,
+		editRecipeModalOpen,
+		Recipes
 	} from '../services/stores';
 	import EditRecipeModal from './editRecipeModal.svelte';
 
 	export let recipe: iRecipe;
 
 	let openBlockModal = false;
-	let matchingOffers = findDiscountedIngredients(recipe);
+	let matchingOffers = findAllDiscountedIngredients($Recipes);
 	let blockInputValue = '';
 
 	let wrongOffer: { ingredient: string; offer: iOffer };
@@ -42,7 +43,7 @@
 </script>
 
 {#await matchingOffers}
-	<div class="text-center loadingSpinner"><Spinner size="12" /></div>
+	<div class="text-center recipeLoadingSpinner"><Spinner size="12" /></div>
 {:then matchingOffers}
 	<div class="recipeAccWrapper">
 		<Accordion>

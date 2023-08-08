@@ -82,11 +82,17 @@
 	left: 15px;
 }
 
-.loadingSpinner {
+.recipeLoadingSpinner {
 	height: 80vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.tableLoadingSpinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
 }
 
 .recipeAccWrapper {
