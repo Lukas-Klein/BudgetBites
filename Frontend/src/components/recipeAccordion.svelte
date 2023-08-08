@@ -22,14 +22,15 @@
 		addToBlocklist,
 		findAllDiscountedIngredients,
 		editRecipeModalOpen,
-		Recipes
+		Recipes,
+		findDiscountedIngredientsOfRecipe
 	} from '../services/stores';
 	import EditRecipeModal from './editRecipeModal.svelte';
 
 	export let recipe: iRecipe;
 
 	let openBlockModal = false;
-	let matchingOffers = findAllDiscountedIngredients($Recipes);
+	let matchingOffers = findDiscountedIngredientsOfRecipe(recipe);
 	let blockInputValue = '';
 
 	let wrongOffer: { ingredient: string; offer: iOffer };
