@@ -1,10 +1,11 @@
 <script lang="ts">
 	import { Button } from 'flowbite-svelte';
 	import '../app.css';
-	import { Recipes, addRecipeModalOpen, getRecipes } from '../services/stores';
+	import { Recipes, addRecipeModalOpen, findRecipeModalOpen, getRecipes } from '../services/stores';
 	import NewRecipeModal from '../components/newRecipeModal.svelte';
 	import RemoveRecipeModal from '../components/removeRecipeModal.svelte';
 	import AllRecipesTable from '../components/allRecipesTable.svelte';
+	import FindNewRecipeModal from '../components/findNewRecipeModal.svelte';
 	import { onMount } from 'svelte';
 
 	onMount(async () => {
@@ -12,9 +13,31 @@
 	});
 </script>
 
-<div class="addRecipeWrapper">
+<div class="RecipeButtonWrapper">
 	<Button
-		class="addRecipeButton"
+		class="recipeButton"
+		on:click={() => {
+			findRecipeModalOpen.set(true);
+		}}
+	>
+		<svg
+			class="mr-2 -ml-1 w-5 h-5"
+			aria-hidden="true"
+			xmlns="http://www.w3.org/2000/svg"
+			fill="none"
+			viewBox="0 0 20 20"
+		>
+			<path
+				stroke="currentColor"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+				stroke-width="2"
+				d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
+			/>
+		</svg>Find new Recipes
+	</Button>
+	<Button
+		class="recipeButton"
 		on:click={() => {
 			addRecipeModalOpen.set(true);
 		}}
@@ -39,3 +62,4 @@
 </div>
 <AllRecipesTable />
 <RemoveRecipeModal />
+<FindNewRecipeModal />

@@ -10,6 +10,8 @@ export const addRecipeModalOpen = writable<boolean>(false);
 
 export const editRecipeModalOpen = writable<boolean>(false);
 
+export const findRecipeModalOpen = writable<boolean>(false);
+
 export const removeRecipeModalOpen = writable<{ open: boolean; id: number }>({
 	open: false,
 	id: 0

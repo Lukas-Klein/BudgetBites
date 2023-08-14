@@ -52,13 +52,13 @@
 	gap: 2rem;
 }
 
-.addRecipeWrapper {
+.RecipeButtonWrapper {
 	display: flex;
 	justify-content: flex-end;
 	gap: 1rem;
 }
 
-.addRecipeButton {
+.recipeButton {
 	margin: 5rem 0 2rem 0;
 }
 
@@ -99,4 +99,11 @@
 	display: grid;
 	grid-template-columns: 30fr 1fr;
 	gap: 1rem;
+}
+
+.exploreRecipes {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-gap: 1rem;
+	grid-template-rows: auto auto auto;
 }

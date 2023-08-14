@@ -13,16 +13,12 @@
 		TableBodyRow,
 		Spinner,
 		Button,
-		Modal,
-		Input,
-		Helper
+		Modal
 	} from 'flowbite-svelte';
 	import type { iOffer, iRecipe } from '../services/types';
 	import {
 		addToBlocklist,
-		findAllDiscountedIngredients,
 		editRecipeModalOpen,
-		Recipes,
 		findDiscountedIngredientsOfRecipe
 	} from '../services/stores';
 	import EditRecipeModal from './editRecipeModal.svelte';
@@ -31,15 +27,14 @@
 
 	let openBlockModal = false;
 	let matchingOffers = findDiscountedIngredientsOfRecipe(recipe);
-	let blockInputValue = '';
 
 	let wrongOffer: { ingredient: string; offer: iOffer };
 
 	async function handleClick() {
-		addToBlocklist(wrongOffer.ingredient, blockInputValue);
-		blockInputValue = '';
-		// Force a page reload after the click event logic is executed
-		location.reload();
+		await addToBlocklist(wrongOffer.ingredient, wrongOffer.offer.name);
+		wrongOffer = { ingredient: '', offer: { name: '', price: '', shop: '', date: '' } };
+
+		matchingOffers = findDiscountedIngredientsOfRecipe(recipe);
 	}
 </script>
 
@@ -170,7 +165,7 @@
 <Modal size="lg" title="Remove Offer" bind:open={openBlockModal} autoclose>
 	<div class="space-y-0">
 		<p class="mb-2 text-base leading-relaxed text-gray-500 dark:text-gray-400">
-			Please tell us which words in the offer caused to a missleading product offer.
+			Was this offer not matching the ingredient?
 		</p>
 		<Table class="mb-8" shadow>
 			<TableHead>
@@ -188,11 +183,10 @@
 				</TableBodyRow>
 			</TableBody>
 		</Table>
-		<Input bind:value={blockInputValue} />
-		<Helper class="text-sm mt-0"
-			>For example: You have whipped cream as an ingredient and the special offer is cream cheese.
-			Then please type in the word cheese. <br /> By doing this you will improve the offer selection.</Helper
-		>
+		<p class="mb-2 text-base leading-relaxed text-gray-500 dark:text-gray-400">
+			Confirm to remove this offer from the ingredient and never get this offer for that ingredient
+			again.
+		</p>
 	</div>
 
 	<svelte:fragment slot="footer">

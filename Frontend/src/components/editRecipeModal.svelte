@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { Button, Label, Modal, Input } from 'flowbite-svelte';
-	import { editRecipe, editRecipeModalOpen, saveRecipe, user } from '../services/stores';
+	import { editRecipe, editRecipeModalOpen, user } from '../services/stores';
 	import type { iIngredient, iRecipe } from '../services/types';
 	export let recipe: iRecipe;
 
