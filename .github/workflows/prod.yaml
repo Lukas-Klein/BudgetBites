@@ -7,6 +7,10 @@ on:
     branches:
       - master
 
+defaults:
+  run:
+    working-directory: ./Frontend
+
 jobs:
   Deploy-Production:
     runs-on: ubuntu-latest
