@@ -1,5402 +1,1082 @@
 [
   {
     "name": "Leerdammer Original oder Delacrème 100 g",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Steinofen Pizza 2x355 g Pckg.",
-    "price": "€3,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Steinofen Pizza 2x340 g Pckg.",
-    "price": "€3,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Setinofen Pizza 2 x 330-g-Pckg.",
-    "price": "€3,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Paella Pfanne oder ja! Western Pfanne 750-g-Btl.",
-    "price": "€3,39",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.39,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Bami Goreng oder ja! Nasi Goreng 750-g-Btl.",
-    "price": "€3,39",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.39,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Spätzle Pfanne 750 g Btl.",
-    "price": "€3,39",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.39,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Penne Gorgonzola 750-g-Btl.",
-    "price": "€2,69",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.69,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Bratkartoffel-Pfanne 600-g-Btl.",
-    "price": "€2,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Garnelen 225-g-Pckg. oder ja! Garnelen à la Provence 250-g-Pckg.",
-    "price": "€3,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Cashewkerne 200-g-Pckg.",
-    "price": "€2,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Hamburger 1000-g-Btl.",
-    "price": "€9,98",
-    "date": "Noch 5 Tage gültig",
+    "price": 9.98,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Feuchtes Toilettenpapier Kamille 2 x 70-St.-Pckg. oder ja! Feuchtes Toilettenpapier Sensitiv 2 x 70-St.-Pckg.",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Taschentücher 30 x 10-St.-Pckg. oder ja! Taschentücher Hybrid, 30 x 10-St.-Pckg.",
-    "price": "€2,75",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.75,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Taschentücher 15 x 10-St.-Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Vollwaschmittel Konzentrat 2,02-kg-Pckg.",
-    "price": "€4,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Colorwaschmittel 2,02-kg-Pckg.",
-    "price": "€4,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Glasreiniger Ocean 1 L-Fl.",
-    "price": "€0,95",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.95,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Küchentücher 8 x 128-St.-Pckg. oder ja! Küchentücher Hybrid, 8 x 128-St.-Pckg.",
-    "price": "€5,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 5.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Küchentücher 4 x 128-St.-Pckg. oder ja! Küchentücher Hybrid, 4 x 128-St.-Pckg.",
-    "price": "€2,75",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.75,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Schwammtuch 5-St.-Pckg.",
-    "price": "€0,95",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.95,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Rockstar Energy Drink 0,5 L Dose",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Lipton Ice Tea 1,5 L-Fl.",
-    "price": "€1,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Hohes C Saft 1-l-Fl.",
-    "price": "€1,39",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.3900000000000001,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Burgwallbronn Mineralwasser 12 x 1-l-Fl.-Kasten",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Brinkhoff's No.1, 0,5-l-Dose",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Volvic natürliches Mineralwasser 0,75 L-Fl.",
-    "price": "€0,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Astra 6 x 0,33-l-FL.-Pckg.",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Paulaner Münchner Hell oder Paulaner Weißbier 20 x 0,5-L-Fl.-Kasten",
-    "price": "€14,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 14.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Radeberger Pilsner 20 x 0,5-L-Fl.-Kasten",
-    "price": "€12,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 12.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Beck's Pils 20 x 0,5-L-Fl.-Kasten",
-    "price": "€10,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 10.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Bitburger Pils 2x20x0,5 L-Fl.",
-    "price": "€22,00",
-    "date": "Noch 5 Tage gültig",
+    "price": 22.0,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Maggi 5 Minuten Terrine Kartoffelbrei mit Röstzwiebeln & Croutons 56 g oder 5 Minuten Terrine Nudeln in Rahmsauce 61-g",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Hellmann's Real Creme 250-ml-Fl. oder Tomato Ketchup 430-ml-Fl.",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Thomy Reines Sonnenblumenöl 750 ml Fl.",
-    "price": "€2,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "3 Glocken Genuss Pur Pasta 500-g-Btl.",
-    "price": "€1,11",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.11,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Melitta Bella Crema 1000-g-Btl.",
-    "price": "€9,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 9.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Melitta Auslese Kaffee 500-g-Pckg.",
-    "price": "€4,44",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.44,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Senseo Kaffeepads Classic 111-g-Btl. oder Jacobs Crema Pads 118-g-Btl.",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Doritos Nacho Cheese 110-g-Btl. oder Lay's Chips 150-g-Btl.",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Nestlé Cerealien Mix 200-g-Pckg. oder KitKat Cereal 330-g-Pckg.",
-    "price": "€2,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Nestlé Kitkat 4 x 41,5-g-Pckg. oder Lion Choco 5 x 30-g-Pckg.",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Mars Celebrations 186-g-Pckg. oder Snickers Minis 275 g Btl.",
-    "price": "€2,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Funny-frisch Kessel Chips 120-g-Btl. oder Riffels 150-g-Btl.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Gorbatschow Wodka Original 0,7-L-Fl.",
-    "price": "€6,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Martini Aperitiv Fiero oder Bianco 0,75-l-Fl.",
-    "price": "€5,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 5.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "MM Extra Sekt 0,75-l-FL.",
-    "price": "€2,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Aresan Bio Tinto DO 0,75 L-Fl.",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Diamant Crémant De Loire Brut 0,75 L-Fl.",
-    "price": "€6,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Speis & Trank Merlot 0,75 L-Fl.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Riesling Steillage QbA 0,75-l-Fl.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Moselland Akzente Elbling QbA 0,75 L-Fl.",
-    "price": "€3,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Jack Daniel's Tennessee Whiskey oder Honey 0,7 L-Fl.",
-    "price": "€15,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 15.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Mikado 75 g Pckg. oder Oreo Kekse 154 g Rolle",
-    "price": "€1,11",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.11,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Cesar Hundenahrung 150-g-Schale",
-    "price": "€0,75",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.75,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Perfect Fit Katzennahrung 750-g-Btl.",
-    "price": "€3,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Listerine Total Care Mundspülung 500-ml-Fl.",
-    "price": "€4,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Persil Universal Discs 16-WL-Pckg. oder Colorwaschmittel Kraft Gel 20-WL-Fl.",
-    "price": "€4,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Nivea Shampoo 250-ml-Fl.",
-    "price": "€2,22",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.22,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Axe Bodyspray 150-ml-Dose",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Tena Discreet Einlagen Extra, 10-St.-Pckg. oder Discreet Einlagen Ultra normal, 16-St.-Pckg.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Weißer Riese Universal Pulver 90-WL-Pckg. oder Spee Colorwaschmittel Gel 100-WL-Fl.",
-    "price": "€13,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 13.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "WC Frisch Kraft-Aktiv 50-g-Pckg.",
-    "price": "€1,69",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.69,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Veganes Schnitzel 200-g-Schale",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Vegane Nuggets 300-g-Pckg.",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio + vegan Bunte Bären 100 g Btl.",
-    "price": "€1,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio + vegan Frischcreme 150-g-Becher",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Schoko Crunchy 500 g Btl.",
-    "price": "€2,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Vegetarische Linsensuppe 400 ml Dose",
-    "price": "€1,11",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.11,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Veganer Aufschnitt 80-g-Pckg.",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Zuckersticks 250 g Pckg.",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Vegane Burger Patties 230 g Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Valensina Kids 0,33-l-Fl.",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Hella Near Water 0,75-l-Fl.",
-    "price": "€0,55",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.55,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Hausmarke Fleischwurst 500 g Pckg.",
-    "price": "€3,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "König Pilsener 20 x 0,5-L-Fl.-Kasten",
-    "price": "€10,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 10.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Paderborner Pilsener 20 x 0,5-l-FL.-Kasten",
-    "price": "€6,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Philadelphia 265-g-Pckg.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Rheinhessen: III Freunde Grauburgunder QbA 0,75 L-Fl.",
-    "price": "€7,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 7.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Zuivelhoeve Vla 200 g Becher",
-    "price": "€0,55",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.55,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Frischli Leckermäulchen Milch-Quark 150-g-Becher oder Leckermäulchen Zitronencreme 100-g-Becher",
-    "price": "€0,55",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.55,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Merl Zarte Heringsfilets 500 g Schale",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Saupiquet Thunfisch-Filets 2x160 g Dose/320 g Pckg.",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Maggi Würze 1000-g-Fl.",
-    "price": "€4,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Like Meat Gyros oder Grilled Chicken 180-g-Pckg.",
-    "price": "€2,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Steinofenbaguette 250 g Pckg.",
-    "price": "€1,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Kölln Schoko Müsli 2000-g-Pckg.",
-    "price": "€6,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Hausmarke Rostbratwurst 450-g-Pckg.",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Hela Gewürz Ketchup Curry 800 ml Fl.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Alpia Schokolade 100-g-Tafel",
-    "price": "€0,69",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.69,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Honey Peppers 150-g-Schale",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Beste Wahl Eiersalat 200 g Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Couscous 500-g-Pckg.",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Mozzarella 200-g-Btl.",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Speisequarkzubereitung 250-g-Becher",
-    "price": "€0,85",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.85,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Sahne Joghurt 500-g-Becher",
-    "price": "€1,15",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.15,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Hirtenkäse 200-g-Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Mini Berner Würstchens 185-g-Pckg.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Volvic Bio Teegetränk 0,75 L-Fl.",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Ültje Erdnüsse 180-g-Dose oder Linsen Crackets 110 g Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Tartex Brotaufstrich 140-g-Glas",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Bihophar Bio-Blütenhonig im Bügelglas 450-g-Glas",
-    "price": "€5,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 5.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Zucchini 1 kg",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Andechser Natur Bio Jogurt mild 500 g Becher",
-    "price": "€1,11",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.11,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Patros Bio Original Feta 130-g-Pckg. oder Bio Natur 140-g-Pckg.",
-    "price": "€1,69",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.69,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Violife Mozzarella Geschmack Scheiben 140 g oder Greek White 172-g-Pckg.",
-    "price": "€2,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Essreife Avocado",
-    "price": "€1,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio + vegan Falafel Bällchens 200-g-Pckg. oder Gemüse Hafer Bällchen 220 g Pckg.",
-    "price": "€2,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Weizen Tortillas 372-g-Pckg.",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Hackfleisch gemischt 400 g Pckg.",
-    "price": "€6,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Schwartau Eiswunder 125 ml Fl.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Baileys Stieleis 3 x 90-ml-Multipckg.",
-    "price": "€2,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Leone Paw Patrol Ice Cream Lollies 360 ml Pckg.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Ehrmann Grand Dessert Eiscreme Schokolade 330-ml-Pckg.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Kinder Schokolade Eis 220 ml Pckg.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "DeBeukelaer Decor Eiswaffeln 50 g oder Erfrischungsstäbchen 75 g Pckg.",
-    "price": "€0,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Nomoo Bio Eis Kakao vegan 465-ml-Becher",
-    "price": "€4,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "O-Mochi Eis Tango Mango 180-g-Pckg.",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Marshmallow Candy 500-ml-Becher",
-    "price": "€3,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Magnum Pint Double Starchaser 440-ml-Becher oder Magnum Almond 6 x 110-ml-Pckg.",
-    "price": "€3,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Dermaris Pizzabrötchen 250 g Pckg.",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Meica Curry King 220-g-Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Langnese Cremissimo Schokoladen Traum 900-ml-Becher oder Cremissimo Bourbon Vanille 1300 ml Becher",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Dovgan Plombir Eiscreme Vanille 6x130 ml Pckg.",
-    "price": "€2,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Coppenrath & Wiese Café Landhaus Erdbeere 600 g oder Cafeteria fein & sahnig Donauwelle 550 g Pckg.",
-    "price": "€3,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Wagner Rustipani geräucherter Käse 175-g-Pckg.",
-    "price": "€1,69",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.69,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "McCain Golden Longs 600-g-Btl.  oder Chef Frites 750-g-Btl.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Iglo Fertiggericht Tagliatelle Pilz-Pfanne 450-g-Btl. oder Chicken Nuggets Classic 250-g-Pckg.",
-    "price": "€2,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Dr. Oetker Bistro Flammkuchen Elsässer Art 265-g-Pckg. oder Ristorante Pizza Salame 320 g Pckg.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Zott Sahne Joghurt 150-g-Becher",
-    "price": "€0,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Dr. Oetker Rote Grütze 160-g-Becher  oder Götterspeise 6 x 50-g-Becher",
-    "price": "€0,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Popp Coleslaw-Salat- oder Kartoffelsalat 400-g-Becher",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Exquisa Quark Genuss 500-g-Becher",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Nestlé Joghurt mit Smarties 120-g-Becher",
-    "price": "€0,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.59,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Landliebe Joghurt mild 200 g oder Fruchtjoghurt Erdbeere 150 g Becher",
-    "price": "€0,44",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.44,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Ferdi Fuchs Snack Box Mini Würstchen 500-g-Pckg.",
-    "price": "€4,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Mestemacher Eiweißbrot 250 g Pckg.",
-    "price": "€1,59",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.5899999999999999,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Wasa Milch & Joghurtknäcke 230-g-Pckg. oder Knäckebrot Rustikal 275-g-Pckg.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Gutfried Hähnchen-Fleischwurs 350-g-Pckg.  oder Geflügel-Fleischwurst 400-g-Pckg.",
-    "price": "€2,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Pick Paprika Kolbasz Paare 200-g-Pckg.",
-    "price": "€2,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Zott Zottarella Classic 400-g-Btl. oder Cheese Tiger Original 84-g-Pckg.",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Bergader Almzeit oder Bavaria Blu 175-g-Pckg.",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Kerrygold Cheddar 150 g Pckg.",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Mirée Französische Kräuter 150-g-Becher",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Messmer Tee-Latte 230-ml-Becher",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Beemster jung oder pikant 100 g",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Grünländer 100 g",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Brie de Meaux oder Roquefort AOP 100 g",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Tiroler Adler 100 g",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Bedford Bauernhof Leberwurst oder Rotwurst 100 g",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Reinert Westfälische Sommerwurst 100 g",
-    "price": "€1,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "5-Sterne Kochschinken 100 g",
-    "price": "€1,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.8900000000000001,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Bonbel Französischer Butterkäse 100 g",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Holländischer Gouda mittelalt 100 g",
-    "price": "€0,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Appenzeller kräftig-würzig 100 g",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Müller Fruchtbuttermilch oder Kalinka Kefir 500-g-Fl.",
-    "price": "€0,88",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.88,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Mövenpick Caffè Macchiato 190 ml oder Caffè Espresso 191-ml-Becher",
-    "price": "€0,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.89,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Metten Delikatess Hähnchenfilet in Aspik 100 g",
-    "price": "€1,29",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.29,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Abraham Leichter Genuss 100 g",
-    "price": "€2,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Steinhaus Delikatess Krustenschinkenbraten 100 g",
-    "price": "€1,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Original Italienische Mortadella 100 g",
-    "price": "€1,19",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.19,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Original Holsteiner Katenschinken 100 g",
-    "price": "€2,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Hausmarke Fleischwurst 500 g Ring",
-    "price": "€3,75",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.75,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Hausmarke Schinkenmettwurst Frankfurter Art 100 g",
-    "price": "€1,39",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.3900000000000001,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "KI-Roy Hähnchenschenkel 100 g",
-    "price": "€0,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Hausmarke Grillinge",
-    "price": "€7,77",
-    "date": "Noch 5 Tage gültig",
+    "price": 7.77,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Frisches Stielkotelett mit Schwarte 100 g",
-    "price": "€0,79",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.79,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "REWE Bio Hähnchenschenkel 500-g-Pckg.",
-    "price": "€7,45",
-    "date": "Noch 5 Tage gültig",
+    "price": 7.45,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ja! Nackensteaks 600 g Pckg.",
-    "price": "€4,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 4.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Hähnchenspieß mariniert >>Curry<< oder >>Barbecue<< 100 g",
-    "price": "€1,89",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.8900000000000001,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "La Döna Spieß 100 g",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Frische Schweineschnitzel aus dem Schinken 1 kg",
-    "price": "€6,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 6.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Frische Putenschnitzel oder frischer Putengulasch oder Frische Putenmedaillons 100 g",
-    "price": "€0,95",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.95,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Landliebe Butter 250 g Pckg.",
-    "price": "€1,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Minutensteaks vom Heimatschwein 400 g Pckg.",
-    "price": "€5,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 5.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Fleischkäse fein, mit Röstzwiebeln oder Chili 100 g",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Fertig gebratene Hähnchenschenkel mit Rückenstück",
-    "price": "€1,70",
-    "date": "Noch 5 Tage gültig",
+    "price": 1.7,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Frische Pollo Fino 100 g",
-    "price": "€0,99",
-    "date": "Noch 5 Tage gültig",
+    "price": 0.99,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "ARGENADA Frisches argentinisches Roastbeef oder Rumpsteak 100 g",
-    "price": "€2,49",
-    "date": "Noch 5 Tage gültig",
+    "price": 2.49,
+    "date": "2023-11-28",
     "shop": "Rewe"
   },
   {
     "name": "Sonnenblumen",
-    "price": "€3,33",
-    "date": "Noch 5 Tage gültig",
+    "price": 3.33,
+    "date": "2023-11-28",
     "shop": "Rewe"
-  },
-  {
-    "name": "EXPERTIZ Office-Spiralblock",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DORMIA Jersey-Kissenbezug 2er-Packung",
-    "price": "€7,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MILSANI Speisequark 20 % 250-g-Packung",
-    "price": "€0,85",
-    "date": "Noch 23 Tage gültig",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Spitzenfußball in der Allianz Arena Heimspiel des FC Bayern München",
-    "price": "€299,00",
-    "date": "Noch 23 Tage gültig",
-    "shop": "Aldi"
-  },
-  {
-    "name": "WORKZONE Leimzwingen-Set 12-tlg.",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Sensation Mini 600 ml",
-    "price": "No price found",
-    "date": "Noch 23 Tage gültig",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SCHILDMEYER Serie 500 Schreibtisch 1500 6F",
-    "price": "€249,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SCHILDMEYER Serie 4000 Aktenschrank",
-    "price": "€199,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Kappzugsäge HM110 MP",
-    "price": "€159,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Scheppach Tischkreissäge HS105",
-    "price": "€179,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Tischfräsmaschine HF50",
-    "price": "€219,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Scheppach Dickenhobel PLM1800",
-    "price": "€299,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Kompressor stehend HC51V",
-    "price": "€159,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Bandsäge HBS261",
-    "price": "€199,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Absauganlage DC500",
-    "price": "€149,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "erazer High-End-Gaming-PC Engineer X20",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "RAZER Barracuda Gaming-Headset",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "RAZER Deathadder V2 X HyperSpeed-Maus",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "RAZER BlackWidow V3 Tenkeyless Gaming-Tastatur",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "erazer High-End-Gaming-PC Hunter X20",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "scheppach Oszillierender Kanten-, Band- und Spindelschleifer OSM600",
-    "price": "€199,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DXRACER Gaming-Stuhl Chefsessel",
-    "price": "€189,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DXRACER Gaming-Schreibtisch",
-    "price": "€149,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "erazer Core-Gaming-Notebook Crawler E30",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "erazer High-End-Gaming-Notebook Beast X20",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUT BIO Bio-Barista-Haferdrink 1 L-Packung",
-    "price": "€1,35",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUT BIO Bio-Mandel-oder Kokosnuss-Drink 1-L-Packung",
-    "price": "€1,35",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUT BIO Bio-Mandel oder Kokosghurt 400-g-Becher",
-    "price": "€1,69",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MY VAY Kokos küsst 150 g Becher",
-    "price": "€0,59",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUT BIO Bio Haferdrink 1 L Packung",
-    "price": "€0,95",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MEINE METZGEREI Hackfleisch Vom Rind, 1-kg-Packung",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BBQ Hähnchen- Schenkel, gewürzt 2-kg-Packung",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "FAIR & GUT Sommersteaks, mariniert 600 g Packung",
-    "price": "€5,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUT DREI EICHEN Koch-Hinterschinken 250 g Packung",
-    "price": "€1,69",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "LEERDAMMERⓇ Scheibenkäse 225- bzw. 260-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MEGGLE Mediterranes Brot oder Steinofen-Dinkelbrot 250 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Bratwurst 220-260 g Packung",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Ketchup 250 ml Flasche",
-    "price": "€2,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Lyoner 100 g Packung",
-    "price": "€1,59",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Reibekäse 150 g Packung",
-    "price": "€1,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Steinofenbaguette 270 g Packung",
-    "price": "€1,79",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BIENVENIDO MEXIKO! Fajita- oder Burrito-Kit",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ASIA GREEN GARDEN Mini-Naan-Dippers 180 g Packung",
-    "price": "€1,69",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GOLDÄHREN Mini-Fladenbrote 250 g Packung",
-    "price": "€1,29",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "AMERICAN Knoblauch-Pizzabrot 223 g Packung",
-    "price": "€1,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ASIA GREEN GARDEN Udong-Nudel-Bowl",
-    "price": "€1,29",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Jogginganzug",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Weste",
-    "price": "€5,79",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Fleecejacke",
-    "price": "€3,79",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Frischmilch 1-L-Packung",
-    "price": "€1,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NUR NUR NATUR Bio-Fruchtjoghurt im Glas 450 g Glas",
-    "price": "€1,59",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Axe Bodyspray oder Duschgel",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "LANDFREUDE Eier aus Freilandhaltung",
-    "price": "€3,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DANONE Fruchtzwerge 600 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "LEICHT & CROSS Knusperbrot Roggen, 150-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "LORENZ ErdnußLocken 240-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SPONTEX® Mikrofasertücher",
-    "price": "€2,89",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "PEDIGREE /SHEBAⓇ/WHISKASⓇ Katzennassfutter oder Hundesnack",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DOMESTOS Reiniger 500- bzw. 750-ml-Flasche",
-    "price": "€1,89",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "KING'S CROWN Paprika 580 ml Glas",
-    "price": "€1,69",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BON-RI Hülsenfrüchte 500 g Packung",
-    "price": "€1,19",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ALMARE Thunfisch 185 g Dose",
-    "price": "€1,29",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "RIBWORLD Single Cut Ribs 600 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "REIS-FIT Express Reis 250 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Corona Extra Bier, 0,33-L-Dose",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "TYSKIE Polnisches Bier 0,5-L-Dose",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GUINNESSⓇ Irish Draught Stout 0,44-L-Dose",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GÖSSER Natur Radler 0,5 L Dose",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "O`LOCLAN'S Irischer destillierter Gin 0,7 L Flasche",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "The Illusionist Dry Gin 0,5 L Flasche",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "NESTLÉ Fun to Share 140-197,4 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "KUCHENMEISTER Koala-Kakao 225 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MONDELEZ Eisbecher 480-ml-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GAZIⓇ Ziegen- oder Schafkäse 150 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BÄRENMARKE H-Milch 1 L Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "HARIBO Splashies oder Skaters 160- bzw. 175-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "WEIHENSTEPHAN Naturjoghurt 500 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "WEIHENSTEPHAN Mascarpone-Joghurt 150 g Becher",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MÜLLER Reine Buttermilch 500-g-Flasche",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "STEINHAUS Braten-Aufschnitt 120-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SCHÜMLI Ganze Bohne 1 kg Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "FERREROⓇ Milch-Schnitte 140 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "STARBUCKSⓇ Kaffeespezialität 53-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BÄRENMARKE Schlagsahne 500-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BAHLSEN Comtess 350 g Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "KINGKRAFT FASHION Arbeitshandschuhe",
-    "price": "€2,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "HAMMERITE Metall-Schutzlack 1 L Dose",
-    "price": "€14,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "JES COLLECTION Alltagshelfer",
-    "price": "€1,00",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Raumentfeuchter-Nachfüllpack",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Abdeckfolien-Set",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Allzweckvlies",
-    "price": "€7,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Raumentfeuchter-Set",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CASTELLO Cheddar oder Höhlenkäse 140- bzw. 150-g-Packung",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Teleskop-Farbroller oder Ersatzwalzen",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Staubschutztür",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "WORKZONE Hochleistungs montage-klebeband",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Malerkrepp-Abdeckband-Set",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "joie Eiswürfel- oder Wassereisbehälter",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Kühlakkus",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Soft-Touch-Pinselset 5er-Set",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Schneidebrett, antibakteriell",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Glaskaraffe",
-    "price": "€12,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Aufbewahrungsboxen für Gemüse",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "AMBIANO Folien-Schweißgerät oder Vakuumpumpe",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "AMBIANO Vakuumierdosen oder Vakuumbeutel",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Salatschüsseln 2er-Set",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Küchenhelfer-Sortiment",
-    "price": "€1,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Messer mit antibakteriellem Griff 2er-Set",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Frischhaltedosen 5er-Set",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BRAUN Stabmixer MQ 10.202",
-    "price": "€27,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Craze Diamonds Crystal Painting",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Kinderbuch",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Stickerbuch",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Minibuch-Set 8er-Set",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Ravensburger/ tiptoi Mein Lern-Spiel-Abenteuer",
-    "price": "€19,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "TUKAN Gymnastikmatte",
-    "price": "€24,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MATTEL GAMES Kartenspiel",
-    "price": "€5,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MATTEL Back to School",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Clementoni Memo oder Kinder-Puzzle",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MATCHBOX Spielzeugautos",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ORIGINAL KAISER Brotbackform",
-    "price": "€9,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GARDENA Gartenschere FL 18 cm",
-    "price": "€7,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GARDENA Gartenschere B/S-M FL 22 cm",
-    "price": "€12,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "GARDENA Astschere Comfort 500 BL FL",
-    "price": "€24,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CRANE Indoor-Sportschuhe",
-    "price": "€12,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ALIVE Jeans",
-    "price": "€8,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Schul- und Hauspantoffeln",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ALIVE Bustiers oder Boxershorts 2er-/3er-Set",
-    "price": "€4,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "DECO CRAFT Premiumweiß",
-    "price": "€12,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BLUE MOTION BH, Slips oder Hipster",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BLUE MOTION Jumpsuit",
-    "price": "€5,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BLUE MOTION Kurzarm-Bluse",
-    "price": "€5,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "LILY & DAN Baby-Body 2er-/3er-Set",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Strumpfhose oder Söckchen",
-    "price": "€0,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Leggings 3er-Set",
-    "price": "€6,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "IMPIDIMPI Unterhosen 4er-/7er-Set",
-    "price": "€7,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CRANE Turnschläppchen",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BASTEL' DICH GLÜCKLICH Bastelpapier",
-    "price": "€2,89",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "CROFTON Kindertrinkflasche oder Lunchbox",
-    "price": "€7,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Play-Doh Knetmasse 224 g Packung",
-    "price": "€2,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "PLAYLAND Lernspiel",
-    "price": "€3,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Maped Malsortiment",
-    "price": "€1,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "hp Notebook 17-cp0565ng",
-    "price": "No price found",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "EXPERTIZ Haftnotizen",
-    "price": "€0,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "OXFORD Premium-Collegeblock",
-    "price": "€3,49",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Schülerhilfe Lernheft",
-    "price": "€2,99",
-    "date": "Gültig in 13 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BRUDER MANNESMANN Werkbank",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BRUDER MANNESMANN Werkzeugbox, 155-tlg.",
-    "price": "€74,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "BRUDER MANNESMANN Akkuschrauber 3,6 V mit Bitsortiment",
-    "price": "€24,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "dreame Vakuum-Staubsauger U10",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "dreame Saugroboter mit Absaugstation D9 plus",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SODASTAR Tauschzylinder",
-    "price": "€5,75",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SODASTAR Wasserfilterkartusche Brilliance",
-    "price": "€6,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "SODASTAR Wasserfilterkanne Brilliance",
-    "price": "€8,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "roba Puppenhochstuhl Scarlett",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "roba Puppenwiege Scarlett",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "roba 3-in-1-Holz-Ritterburg",
-    "price": "€79,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "roba Kinderwerkbank mit Werkzeugset",
-    "price": "€89,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "roba Verkaufsstand Candyshop",
-    "price": "€149,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Ice Machines Minis 270 ml Packung",
-    "price": "€2,29",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Wassereis Swip 660-ml-Packung",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Less & Tasty 500-ml-Becher",
-    "price": "€2,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Eisriegel",
-    "price": "€2,29",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Sensation Mini 600 ml Packung",
-    "price": "€2,39",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Sensation Mini 600 ml Packung",
-    "price": "€2,69",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Enders Boston Black Pro 6 SIKR Turbo II, inkl. Wetterschutzhülle",
-    "price": "€699,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "ZORN Akku-Kühlbox ZE26 12/230V LNE",
-    "price": "€229,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "prophete E-Scooter Urbanicer",
-    "price": "€799,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "JLOBE Falt E-Bike EasyStar Gala",
-    "price": "€1.299,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "FISCHER Trekking E-Bike Viator 6.0i mit Mittelmotor, 36 V / 504 Wh",
-    "price": "€1.999,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Eiskonfekt Vanille 400 ml Packung",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Spezialitätenbecher 510-ml-Packung",
-    "price": "€1,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Waffelhörnchen 440-ml-Packung",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Waffelhörnchen 720 ml Packung",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "MUCCI Eis-Sandwich 720-ml-Packung",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Romeo Premium Hunde-Trockenfutter Wild Roots",
-    "price": "€21,96",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Romeo Premium Hunde Nassfutter, 20 x 400 g",
-    "price": "€19,80",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Romeo Premium Gourmet Hunde-Snack, 12 x 80 g",
-    "price": "€16,20",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "Romeo Wild Roots Hunde-Nassfutter, 12x400 g",
-    "price": "€28,68",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "OUZO of Plomari 0,7-L-Flasche",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Aldi"
-  },
-  {
-    "name": "PARKSIDEⓇ Benzin-Rasenmäher ,,PBRM 51 A1\"",
-    "price": "€329,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Grillmeister Hähnchenbruststeaks 550 g",
-    "price": "€4,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "ROMANETTI APERITIVO ROSATO 0,7 L-Fl.",
-    "price": "€6,99",
-    "date": "Noch 23 Tage gültig",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Carratt Faltrad, 20 Zoll",
-    "price": "€199,00",
-    "date": "Noch 5 Tage gültig",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Snack Day Bio Maissnack 80 g",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Kunstpflanze",
-    "price": "€22,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Sitting Ball ,,Felt\"",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "JUSKYS Bürostuhl",
-    "price": "€74,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Schüler Schreibtisch",
-    "price": "€129,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Rollladenschrank",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Aufbewahrungsschrank",
-    "price": "€34,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Schreibtisch",
-    "price": "€34,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Gefrierschrank ,,G 85\"",
-    "price": "€179,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Kühlschrank mit Gefrierfach ,,SKS 121 A1\"",
-    "price": "€179,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "GSW Kochtopf-Set, 7-tlg.",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Amica Herdset ,,EHC 933 009 E\"",
-    "price": "€399,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Esmeyer Messerset mit Messerblock, 7-tlg.",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "BOSCH Küchenmaschine „MUMS2TW00\"",
-    "price": "€119,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Kopfkissen mit Klimafeld / Steppbett",
-    "price": "€12,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "ECHTWERKⓇ Sitzbank mit Samtbezug",
-    "price": "€44,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Bettwäsche Mako Satin",
-    "price": "€21,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PRIMERA Summer-Set Sommertuch mit Kissenbezug",
-    "price": "€14,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Amica Waschmaschine Toplader ,,WT 461 700\"",
-    "price": "€349,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "gorenje Waschmaschine ,,WNHEI74SAPS/DE\"",
-    "price": "€349,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Dampfbügelstation ,,SDBS 2400 A1\"",
-    "price": "€59,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "AquaPurⓇ Aluminium-Wäschespinne",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Organizer",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Saugroboter ,,SSR AL1\"",
-    "price": "€249,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Hn8 7 Zonen Taschenfederkern Matratze",
-    "price": "€239,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Hn8 7-Zonen-Taschenfederkern-Matratze mit Wendefunktion",
-    "price": "€199,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Motorradabdeckung",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Motorrad Rucksack 18 L/ Hecktasche 20 L",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Luxxon Elektroroller ,,E3000\"",
-    "price": "€1.579,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "bluis Elektroroller Stalker 45 km/h",
-    "price": "€1.299,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Fan 7-Zonen-Komfortschaummatratze mit Wendefunktion",
-    "price": "€149,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE 20-V-Smart-Akku ,,PAPS 204 A1\"",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Smart Akku-Ladegerät ,,PLGS 2012 A1\"",
-    "price": "€42,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Rucksackdrucksprüher ,,PRDSP 20-Li B2\"",
-    "price": "€74,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 40-V-Akku-Handkreissäge ,,PPHKSA 40-Li A1\"",
-    "price": "€99,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Kombihammer ,,PKHAP 20-Li B2“",
-    "price": "€79,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Winkelschleifer ,,PWSAP 20 Li D4\"",
-    "price": "€57,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE 20-V-Akku-Hobel ,,PPHA 20-Li B2\"",
-    "price": "€64,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "BeCo 7-Zonen Premium-Lattenrost",
-    "price": "€64,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE 40-V-Akku-Vertikutierer ,,PLVA 40-Li B1\"",
-    "price": "€139,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 20-V-Akku-Drehschlagschrauber ,,PDSSA 20-Li A1\"",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE 12-V-Akku-Heckenschere mit Akku und Ladegerät",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Hochdruckreiniger ,,PHD 170 C2\"",
-    "price": "€139,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Bettwäsche Mako Satin",
-    "price": "€21,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "ECHTWERKⓇ Sitzbank mit Samtbezug",
-    "price": "€44,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PRIMERA Summer-Set Sommertuch mit Kissenbezug",
-    "price": "€14,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Kopfkissen mit Klimafeld/Steppbett",
-    "price": "€12,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Amica Waschmaschine Toplader",
-    "price": "€349,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Amica Waschmaschine ,,WNHEI74SAPS/DE\"",
-    "price": "€349,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Dampfbügelstation ,,SDBS 2400 A1\"",
-    "price": "€59,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "AquaPurⓇ Aluminium-Wäschespinne",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "LIVARNO home Organizer",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Hn8 7 Zonen Taschenfederkern Matratze",
-    "price": "€239,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Hn8 7-Zonen-Taschenfederkern-Matratze mit Wendefunktion",
-    "price": "€199,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Fan 7-Zonen-Komfortschaummatratze mit Wendefunktion",
-    "price": "€149,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "BeCo 7-Zonen Premium-Lattenrost",
-    "price": "€64,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Saugroboter ,,SSR AL1\"",
-    "price": "€249,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Gefrierschrank ,,G 85\"",
-    "price": "€179,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "SILVERCRESTⓇ Kühlschrank mit Gefrierfach ,,SKS 121 A1\"",
-    "price": "€179,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "GSW Kochtopf-Set, 7-tlg.",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Amica Herdset ,,EHC 933 009 E\"",
-    "price": "€399,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Rauch Happy Day Saft 1 L",
-    "price": "€1,59",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Milbona Butterkäse in Scheiben 400 g",
-    "price": "€2,19",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Nuii Ice Cream 3x90 ml",
-    "price": "€2,29",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Evian Mineralwasser still 1,5 L",
-    "price": "€0,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Delverde Pasta 1 kg",
-    "price": "€1,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Esmeyer Messerset mit Messerblock, 7-tlg.",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "AriZona Iced Tea 1 L",
-    "price": "€1,11",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Krombacher Pils 6x0,5 L",
-    "price": "€3,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Nesquik Kakaogetränkepulver 400 g",
-    "price": "€1,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Nestlé Schöller Eis 9x45/5x73/4x73 ml",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Kinder Riegel 420 g",
-    "price": "€4,19",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Dr. Oetker Paula Pudding 4x 125 g",
-    "price": "€1,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "British Heritage Premium Cheddar Käsescheiben 125 g",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "BOSCH Küchenmaschine „MUMS2TW00\"",
-    "price": "€119,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Maxitrat Waschmittel 100 Wäschen",
-    "price": "€10,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Danone Actimel Drink XXXL Megapack 14x100 g",
-    "price": "€4,44",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Kerrygold extra 400 g",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Mixed Minis 710 g",
-    "price": "€4,77",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Landliebe Eiscreme 750 ml",
-    "price": "€1,88",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Motorradabdeckung",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Motorrad Rucksack 18 L/ Hecktasche 20 L",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Luxxon Elektroroller ,,E3000\"",
-    "price": "€1.579,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "bluis Elektroroller Stalker 45 km/h",
-    "price": "€1.299,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Grillmeister Schweine-Sommersteaks 1.000 g",
-    "price": "€6,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Grillmeister Schweine-Spare Ribs Ca. 700 g",
-    "price": "€5,60",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Metzgerfrisch Frische Puten-Ministeaks 800 g",
-    "price": "€7,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Grillmeister Hähnchen Minutenschnitzel 400 g",
-    "price": "€4,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Norwegische Lachsseite 1 kg",
-    "price": "€16,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Metzgerfrisch Premium Kalbs Rückensteak 170 g",
-    "price": "€3,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Metzgerfrisch Putengeschnetzeltes Gyros 1kg",
-    "price": "€6,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Dilek Getrocknete Früchte 200 g",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Dilek Helva 360 g",
-    "price": "€2,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Ülker Halley 300 g",
-    "price": "€2,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Suntat Weiße Bohnen 800 g",
-    "price": "€1,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Dilek Oliven 280 g",
-    "price": "€2,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Suntat Gefüllte Weinblätter 400 g",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Suntat Kichererbsen 200 g",
-    "price": "€1,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Deutsche Mirabellen",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Honigmelone",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Rote Paprika 500 g",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Bioland Deutsche Zucchini 500 g",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Ananas",
-    "price": "No price found",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Suntat Tel Peyniri Zupfkäse 200 g",
-    "price": "€3,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Gazi Grill- und Pfannenkäse 2x100 g",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Suntat Rinderformschinken nach türkischer Art 100 g",
-    "price": "€2,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Ömür Hirtenkäse 1,5 kg",
-    "price": "€6,66",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Yayla Geflügel-Bratwurst 800 g",
-    "price": "€4,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Sahnejoghurt 1 kg",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Baklava-Mischung 250 g",
-    "price": "€3,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Dürüm Fladenbrot 12 Stück",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Sucuk Rohe Knoblauchwurst 300 g",
-    "price": "€3,29",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Filo-/Yufka-Teig 500 g",
-    "price": "€1,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Falafel 200 g",
-    "price": "€1,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "VAE Dubai & Abu Dhabi",
-    "price": "€888,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Marokko Königsstädte-Rundreise",
-    "price": "€699,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Kürbiskerne 200 g",
-    "price": "€1,59",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Sonnenblumenkerne 200 g",
-    "price": "€0,79",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Sonnenblumenöl 5 Liter",
-    "price": "€8,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Lahmacun/Dürüm 540/275 g",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Hähnchen-Geschnetzeltes 750 g",
-    "price": "€6,19",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "1001 delights Pide 400 g",
-    "price": "€2,49",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 40-V-Akku-Vertikutierer",
-    "price": "€139,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE 20-V-Akku-Drehschlagschrauber",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 12-V-Akku-Heckenschere mit Akku und Ladegerät",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Rucksackdrucksprüher",
-    "price": "€74,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE 20 V Smart Akku Ladegerät",
-    "price": "€42,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE 20-V-Smart-Akku ,,PAPS 204 A1\"",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 40-V-Akku-Handkreissäge",
-    "price": "€99,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Kombihammer",
-    "price": "€79,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Hobel ,,PPHA 20-Li B2\"",
-    "price": "€64,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE PERFORMANCE® 20-V-Akku-Winkelschleifer",
-    "price": "€57,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Hochdruckreiniger ,,PHD 170 C2\"",
-    "price": "€139,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "ULTIMATE SPEEDⓇ Ladekabel ,,2 USLK 22 A1\"",
-    "price": "€149,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "ULTIMATE SPEEDⓇ Wallbox 22 KW",
-    "price": "€499,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Balkonkraftwerk ,,PBKW 300 A1\"",
-    "price": "€199,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Nietmutternzange, 151-teilig",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE O-Ring-/Dichtungssortiment",
-    "price": "€6,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Diamant-Schleifblock",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Holzbohrer-/Steinbohrer-/ SDS-Bohrer-/HSS-Multifunktionsbohrer Set",
-    "price": "€3,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Spezialbohrerset",
-    "price": "€4,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Bohrerschärfgerät",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Benzin-Rasenmäher",
-    "price": "€329,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Silent-Kompressor",
-    "price": "€199,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Rohrschneider/Rohrbiegezange/ Doppel-Bördelwerkzeug-Set",
-    "price": "€5,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Kreisschneider/ Düsen- und Elektrodenset",
-    "price": "€12,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Knabber",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ LED-Strahler mit Powerbank",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Magnetisches Werkzeugzubehör",
-    "price": "€2,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Druckluft-Schlauch, 10 m",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Druckluft-Schlauchtrommel",
-    "price": "€24,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Druckluft Farbspritzpistole HVLP",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Druckluft-Schlagschrauber",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Druckluft Zubehörset",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 20V Akku-Heißklebepistole",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 20V Akku Exzenterschleifer",
-    "price": "€26,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku-Kombigerät 40 V",
-    "price": "€129,00",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Mehrzweckseil",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku-LED-Handlampe 20 V",
-    "price": "€9,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 20 V Akku-Bandsäge",
-    "price": "€99,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 20 V Akku-Farb-und Mörtelrührer",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Akku-Farbspritzpistole 20 V",
-    "price": "€34,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku-Pendelhubstichsäge 20 V",
-    "price": "€34,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Werkzeugkoffer, 95-teilig",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Akku-Baustellenradio 20 V",
-    "price": "€59,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Akku Kompressor und Luftpumpe 20 V",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku-Bohrhammer 20 V",
-    "price": "€39,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ 3-in-1-Akku-Schlagbohrschrauber 20 V",
-    "price": "€34,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku-Schrauber mit Tauschaufsätzen ,,PAS D5\"",
-    "price": "€27,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku 20 V/ 4 Ah ,,PAP 20 B3\"",
-    "price": "€24,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDEⓇ Akku 20 V/2 Ah + Ladegerät",
-    "price": "€24,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE 3-in-1-Akku-Kombigerät 20 V",
-    "price": "€49,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "PARKSIDE Akku-Multifunktionswerkzeug 20 V",
-    "price": "€29,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Schrittzähler",
-    "price": "€5,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "comfosan Schuheinlagen-Starterset",
-    "price": "€6,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "CRIVIT Laufschuhe",
-    "price": "€19,99",
-    "date": "Gültig in 6 Tagen",
-    "shop": "Lidl"
-  },
-  {
-    "name": "Schweine-Filetköpfe 100 g",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Heineken Original 20x 0,4l",
-    "price": "€14,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Kerrygold Butter 200/250 g Becher/Stück",
-    "price": "€1,39",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dove Deo Spray 150 ml Dose",
-    "price": "€2,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Odol Med 3 Zahncreme All-in-One-Schutz Samtweiß oder Complete Care 75 ml Tube",
-    "price": "€2,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Kuschelweich Weichspüler 38 WL Flasche",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bio Hipp Hippis Quetschbeutel 100 g",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "GUT& GÜNSTIG Hello my Cat Knuspermenü mit Rind 2 kg Beutel",
-    "price": "€2,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "sun D'OR Sonnenmilch sensitiv LSF 30 250 ml Flasche",
-    "price": "€4,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Elkos Reinigungstücher fürs Gesicht",
-    "price": "€0,95",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dick & Durstig Haushaltstücher 4 x 45 Blatt Packung",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Fructis Pflegeshampoo oder Spülung 200/250 ml Flasche",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Nivea Duschgel 250 ml Flasche",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "WC Frisch Kraft-Aktiv Duftspüler 50 g Packung",
-    "price": "€1,39",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Leibniz Choco Kekse oder Butterkeks oder Kakaokeks 125 - 200 g Packung",
-    "price": "€0,89",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Nestlé Choco Crossies Crunchy 140 - 200 g Packung",
-    "price": "€2,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Original Muh-Muhs Sahne Toffees 215 g Beutel",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Pom-Bär Multipack 120 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Mikado Sticks mit Schokolade 75 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Amicelli schokoladenumhüllte Waffelröllchen oder Ritter Sport Schokowürfel 176-225 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Tuc Bake Rolls 150 g Beutel",
-    "price": "€1,59",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Milka Tafelschokolade 85-100 g Tafel",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Jim Beam Ready to Drink 0,25 / 0,33 Liter Dose",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Somersby Cider 0,33 Liter Dose",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Three Sixty Vodka 0,7 Liter Flasche",
-    "price": "€9,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Havana Club Añejo Especial oder Havana Club 3 Jahre 0,7 Liter Flasche",
-    "price": "€10,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Grant's Scotch Whisky 0,7 Liter Flasche",
-    "price": "€9,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Ouzo Plomari 0,7 Liter Flasche",
-    "price": "€8,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Mönchshof 20 x 0,5 Liter Bügel-Flaschen",
-    "price": "€12,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Heineken Premium Beer 20 x 0,4 Flaschen",
-    "price": "€14,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Franziskaner Hefe-Weißbier 2 x 20 x 0,5 Liter Flaschen",
-    "price": "€27,98",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Astra oder Holste 27 x 0,33 Liter Flaschen",
-    "price": "€9,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bitburger Pils 24 x 0,33 Liter Flaschen",
-    "price": "€10,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Sweet Family Gelierzucker 1:1 1 kg Packung",
-    "price": "€1,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Ehrmann Foodie 400 ml Flasche",
-    "price": "€2,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bulls-Eye Original oder Steakhouse 300 ml Flasche",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Sharwood Kochsaucen 420 g Glas",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Knorr Fix oder Natürlich lecker! 28-100 g Beutel",
-    "price": "€0,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Martin Schongauer Grauburgunder, oder Weißburgunder 0,75 Liter Flasche",
-    "price": "€3,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Le Filou französischer Landwein 0,75 Liter Flasche",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Faber Krönung Sekt oder Faber Light Live 0,75 Liter Flasche",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Tea Rich Eistee 750 ml Packung",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Coca-Cola koffeinhaltige Limonade 18 x 0,33 Liter Dosen",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Fritz-Kola Limo oder Mate 24x0,33 Liter Flaschen",
-    "price": "€19,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Volvic natürliches Mineralwasser  6 x 1,5 Liter PET-Flaschen",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Fürst Bismarck Quelle Mineralwasser 12 x 1 Liter PET-Flaschen",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Monster Energy Drink 0,5 Liter Dose",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Häagen-Dazs Eiscreme 380-460 ml Packung",
-    "price": "€3,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Erdbeerkuchen 400 g Packung",
-    "price": "€3,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Coppenrath & Wiese Brötchen kernig & kräftig 400-490 g Beutel",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Frosta Fertiggerichte 375 g Packung",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Edeka Backofen Frites 750 g Beutel",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio verschiedenes Gemüse 450 g Packung",
-    "price": "€1,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Iglo Fischstäbchen 224 - 450 g Packung",
-    "price": "€3,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gustavo Gusto Steinofenpizza 410-510 g Packung",
-    "price": "€3,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dr. Oetker Pizza Die Ofenfrische oder Tradizionale 350 - 435 g Packung",
-    "price": "€2,39",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Harry Schnittbrote oder Lieken Urkorn Schnitten 500 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Finn Crisp Knäckebrot 200 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Käsebrötchen, 90 g Stück",
-    "price": "€0,39",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Landliebe Konfitüre 180 - 200 g Glas",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Teekanne Verführerischer Früchtetee 45-60 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dallmayr ganze Bohnen Crema d'Oro 750 g-1 kg Beutel",
-    "price": "€10,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Jacobs Gold Instant Kaffee 200 g Glas",
-    "price": "€5,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Darboven Idee Kaffee Classic, Eilles Gourmet oder Mövenpick Edle Komposition gemahlener Bohnenkaffee 500 g Packung",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dallmayr Home Barista ganze Bohne 1 kg Packung",
-    "price": "€9,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Alpro Soja-Joghurtalternativen 350-400 g Becher",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Hansano maxi oder haltbare Weidemilch 1 Liter Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Weideglück Landjoghurt, Milchreis oder Grieß-Dessert 800 g- 1 kg Becher",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Emmi Caffè Latte 230 ml Becher",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Ehrmann High Protein Mousse 200 g Becher",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Danone Activia 4 x 110-125 g Packung",
-    "price": "€1,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Danone Fruchtzwerge 300 g Packung",
-    "price": "€1,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Danone Actimel Drink 800 g Packung",
-    "price": "€2,59",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Kerrygold Butter oder Streichfett 150 - 250 g Packung",
-    "price": "€1,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Rama Original oder Balance 400-500 g Becher",
-    "price": "€1,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "WILTMANN Salami-Teller 80 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfried Geflügel-Fleischwurst 400 g Stück",
-    "price": "€2,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Meica Curryking 220 g Packung",
-    "price": "€1,59",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Stroh Schwein Wiener Würstchen 400 g Packung",
-    "price": "€4,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "NORDISCH Mini-Knackis 200 g Packung",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Ran an den Grill XXL Schinken-Krakauer oder Rostbratwurst 480 g Packung",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Kotelett vom Schwein 700 g Packung",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Hähnchen Flügel ohne Spitze 550 g Packung",
-    "price": "€2,59",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Käsemeister Gouda jung deutscher Schnittkäse 100 g",
-    "price": "€0,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Saint Albray oder Chavroux französischer Weichkäse 125-180 g Packung",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Rücker Ostseegouda deutscher Schnittkäse 100 g",
-    "price": "€0,89",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Rougette Grillkäse 180 g Packung",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bresso Frischkäsezubereitung 120-150 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Beemster mild niederländischer Schnittkäse 100 g",
-    "price": "€1,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Milram Müritzer oder Sylter deutscher Schnittkäse 100 g",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Edeka My Veggie Aufschnitt nach Art Brühwurst 80 g Packung",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Garden Gourmet Fleischalternativen 150-200 g Packung",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Holsteiner Putenbrustfilet 100 g",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dölling Riesenlotsenwurst oder Holsteiner Lotsenwurst, fein 100 g",
-    "price": "€2,19",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Gekochter Hinterschinken oder Schinkenspeck 100 g",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Schinkengriller oder Rostbratwurst 100 g",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Zwiebelmettwurst 100 g",
-    "price": "€1,69",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Pasteten-Aufschnitt 100 g",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Arla Käseaufschnitt 125 - 150 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Grobe Bratwurst 400 g Packung",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Hähnchen-Brustfilet 500 g Packung",
-    "price": "€4,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig XXL Rinder-Hackfleisch 800 g Packung",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Neuseeländische Lammlachse 100 g",
-    "price": "€3,33",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Schinkengulasch 1 kg",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Kasseler Lachsbraten 1 kg",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Frisches Stielkotelett 1 kg",
-    "price": "€5,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Frischer Rollbraten 1 kg",
-    "price": "€6,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Innocent Smoothie 250-330 ml Flasche",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Tafeläpfel Pink Lady 600 g Karton",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Pinke Perle Tafeltrauben 650 g Beutel",
-    "price": "€2,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Zwetschen 1 kg",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Pflaumen 500 g Packung",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Zuckeraprikosen 350 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Kulturheidelbeeren 300 g Packung",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Kiwis 3 Stück",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Bananen 1 kg",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Rinderbraten 1 kg",
-    "price": "€9,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Edeka Mini Rispentomaten 400 g Packung",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Die Gartenzwerge Zwergmais-Kolben 400 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Portobello 200 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Zucchini 1 kg",
-    "price": "€1,11",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "UNSERE HEIMAT Speisekartoffeln 2 kg Beutel",
-    "price": "€3,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Paprika 1 kg",
-    "price": "€2,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Salatgurken",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Frischhaltedosen Set XXL",
-    "price": "€12,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "demeter Bundmöhren 500 g Bund",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Speisemöhren 1 kg",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Staudensellerie 400 g Bund",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bio Mangos",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dahlien 2 Bund",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Buntnessel oder Stern von Ägypten 12 cm",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Lavendel im 6er Träger",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Heineken Bier 6 x 0,33 Liter Dosen",
-    "price": "€3,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Hela Gewürz Ketchup 300 ml Flasche",
-    "price": "€1,11",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Lorenz Naturals 80 - 95 g Beutel",
-    "price": "€1,11",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Alpro pflanzliche Drinks 1 Liter Packung",
-    "price": "€1,39",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Driscolls Himbeeren 250 g Packung",
-    "price": "€2,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Schweine-Filet ca. 550 g, 1 kg",
-    "price": "€7,90",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Mazola Keimöl oder Rapsöl 750 ml Flasche",
-    "price": "€3,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Milram Gewürzquark oder pflanzlicher Aufstrich 155/185 g Becher",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Mini Romanasalat 3er Packung",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Dodoni Halloumi oder Grillkäse 225 g Packung",
-    "price": "€2,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "WIPASZ Hähnchen Pollo Fino  2,5 kg Packung",
-    "price": "€7,77",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA zuhause Holzkohle oder Briketts 2,5 kg Sack",
-    "price": "€3,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Rösle BBQ-Station Gourmet G3 EDS",
-    "price": "€399,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Peter Pane Grill und Burgersaucen 300 ml Flasche",
-    "price": "€2,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Hot Dog Rolls oder Hamburger Buns 250-300 g Packung",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bedda vegane Scheiben 150 g Packung",
-    "price": "€1,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gutfleisch Delikatess Bacon 150 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "SoFine vegane Burger 150 - 210 g Packung",
-    "price": "€2,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Gut & Günstig Rispentomaten 1 kg",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Ran an den Grill Beefburger 360 g Packung",
-    "price": "€3,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Lätta Original 600 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Mandelmus 250 g Glas",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Nuss Nougat Creme 400 g Glas",
-    "price": "€2,22",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Salatmayonnaise oder Remoulade 250 ml Glas",
-    "price": "€1,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Gnocchi oder Tortelloni 250-400 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA MY VEGGIE Vegane Frikadellen 165 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio My Veggie Tofu 350-400 g Packung",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Spee oder Weißer Riese Megaperls Gel oder Caps",
-    "price": "€3,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Hohes C Fruchtsäfte 1 Liter PET-Flaschen",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Storck Nimm2 Lachgummi 200-325 g Beutel",
-    "price": "€0,89",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Delverde Pasta 500 g Packung",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Leerdammer niederländischer Schnittkäse 100-140 g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Müller Froop 140-150 g Becher",
-    "price": "€0,33",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Avocados Hass",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Nestlé Schöller oder Nuii Eisvariationen 240-840 g Packung",
-    "price": "€1,88",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Milka Schokolade versch. Sorten, 85g - 100g",
-    "price": "€0,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Mövenpick Edle Komposition Eilles Gourmet Café oder Idee Kaffee versch. Sorten, vakuumverpackt, 500g Packung",
-    "price": "€4,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Leerdammer Scheiben 100g - 140g Packung",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Knorr Fix oder Natürlich lecker! 28-100g",
-    "price": "€0,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "EDEKA Bio Frische Tortelloni versch. Sorten, 250g oder Frische Gnocchi 400g",
-    "price": "€1,79",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Avocado",
-    "price": "€1,00",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Nuii oder Pirulo Eis Multipackungen",
-    "price": "€1,88",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bauern Gut Schweineschnitzel 500 g Packung",
-    "price": "€4,49",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Bauern Gut Bierschinken oder Pfefferbierschinken 100 g",
-    "price": "€1,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Deutschland EDEKA Bio Salatherzen 2er Packung",
-    "price": "€0,99",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Beemster mild oder pikant 165 g Packung",
-    "price": "€2,29",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Warsteiner Premium-Pilsener 5 L Fass",
-    "price": "€5,55",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "Rougette Grillkäse 180 g Packung",
-    "price": "€1,88",
-    "date": "Noch 4 Tage gültig",
-    "shop": "Edeka"
-  },
-  {
-    "name": "PURINA Gourmet Gold Katzennahrung 85 g Dose",
-    "price": "€0,44",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BRUNCH Brotaufstrich 185 g Becher",
-    "price": "€1,11",
-    "date": "Noch 1 Tag gültig",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Rindertafelspitz",
-    "price": "€13,50",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "WILTMANN Salami-Spezialitäten 70-80 g Packg.",
-    "price": "€0,99",
-    "date": "Noch 1 Tag gültig",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Falsches Filet",
-    "price": "€11,90",
-    "date": "Noch 1 Tag gültig",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Walnusskerne 200-g-Packg.",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ECHTER NORDHÄUSER Doppelkorn 0,7 L-Fl.",
-    "price": "€5,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "PAMPERS Baby Dry 18-34 St. Packg.",
-    "price": "€7,77",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ACTIVE 02 oder ACTIVE FRESH Erfrischungsgetränk 0,75 l-PET-Fl.",
-    "price": "€0,89",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Wurst Aufschnitt 200 g Packg.",
-    "price": "€0,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Storck Toffifee 200 g Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Hundenahrung Kroketten 10-kg-Packg.",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "RORAX Rohrfrei 1-I-FI.",
-    "price": "€2,79",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "KNEIPP Duschgel 200-ml-Tube",
-    "price": "€2,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BECHEROVKA Kräuter-Likör 0,7 L-Fl.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "METAXA 7 Sterne 0,7 L-Fl.",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BRUT DARGENT Franz. Sekt 0,75 L-Fl.",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MICHEL SCHNEIDER Grauburgunder Rivaner, Chardonnay oder Gewürztraminer Riesling 0,75 L-Fl.",
-    "price": "€3,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "VOLVIC Juicy 1 L-PET-Fl.",
-    "price": "€1,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Studentenfutter 200 g Packg.",
-    "price": "€1,39",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HANUTA Minis 200-g-Packg.",
-    "price": "€2,22",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FUNNY-FRISCH Linsenchips 90 g Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MESSMER Kräuter oder Früchte-Tee 25 Btl. Packg.",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DE BEUKELAER Prinzen Rolle 352-400 g Rolle",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "JACOBS Kaffeekapseln 104 g Packg.",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Basmati Reis 1 kg Packg.",
-    "price": "€2,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MAGGI Guten Appetit! Suppe",
-    "price": "€0,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Kidney Bohnen 420 g Dose",
-    "price": "€0,55",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Kräuter, Suppengrün oder Zwiebeln 12,5 - 35 g Glas",
-    "price": "€0,88",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MILKANA Tolle Rolle oder Schmelzkäse-Zubereitung 100-200 g Packg.",
-    "price": "€1,88",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Original Thüringer Rostbratwurst 500 g Packg.",
-    "price": "€3,33",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Leberwurs 210 - 250-g-Stück",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Rustikales Wurzelbrot 420 g Stück",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BERSCHNEIDER Nuss Schinken 100 g Packg.",
-    "price": "€1,39",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-PURLAND Schweinefilet",
-    "price": "€8,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Wacholderschinken 100 g",
-    "price": "€1,14",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SALZBURGMILCH Premium Heujuwel 100 g",
-    "price": "€0,89",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Dtsch. Cocktailrispentomaten 350 g Packg.",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Heringsfilets in Sauce 400-g-Becher",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ORIGINAL WAGNER Steinofen Pizza oder Flammkuchen 300-360 g Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ESCAL White Tiger Garnelen oder Giant King Prawn 300-500 g Packg.",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Smålgarden 250 g Becher",
-    "price": "€1,11",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HP Notebook-Tasche >>Prelude 2Z8P4AA<<",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HP Notebook-Rucksack >>Prelude 2Z8P3AA<<",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DeLonghi Mobiles Klimagerät Pinguino >>PAC N82 ECO<<",
-    "price": "€299,00",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "EMMI Caffè Latte Macchiato 230 ml Becher",
-    "price": "€1,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Kugelhantel 8 kg",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Vibrationsboard",
-    "price": "€79,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Tennissocken",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Sneakersocken",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Füßlinge",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Damen-Leggings",
-    "price": "€19,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Shorts >>Tiro<<",
-    "price": "€19,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Damen Cropped-T-Shirt",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Sweathoodie",
-    "price": "€34,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Adidas Damen-T-Shirt oder Herren-Poloshirt >>Tiro<<",
-    "price": "€17,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DANONE Activia 8x115 g Becher",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ/ TOWNLANDⓇ Pantoletten",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "STEP BY STEP Kinder Pantoletten",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "LIV&BOⓇ Flextubes-Nackenstützkissen",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TOWNLANDⓇ T-Shirt",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TOWNLANDⓇ 5 Slips oder 3 Boxershorts",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Miederslips 2-St.-Packg.",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Radlerhose",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TOWNLANDⓇ Achselhemden 3-St.-Packg.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Achselhemden 3-St.-Packg.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Top",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Minimizer-BH",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "OYANDAⓇ Spacer-BH",
-    "price": "€8,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Driscoll's Portug./ engl. Himbeeren 125-g-Schale",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "F.A.N. Bettwaren",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "LIV&BOⓇ Komfort-Wendematratze",
-    "price": "€59,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "AEG Akku-Handstaubsauger >>CX7-2-45MÖ<<",
-    "price": "€129,00",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MISTRAL HOME Renforcé-Bettwäsche-Set",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "LIV&BOⓇ Topper-Spannbettlaken",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MISTRAL HOME Flanell-Kuscheldecke",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SWITCH ONⓇ Ventilator mit LED-Leuchte",
-    "price": "€44,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BESTRON Eierkocher >>AEC300Z<<",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BESTRON Glas Wasserkocher >>AWK400Z<<",
-    "price": "€17,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MELITTA Filterkaffeemaschine >>Look Therm Selection M661<<",
-    "price": "€69,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BESTRON Toaster »ATS400Z«",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BESTRON Kaffeemaschine >>ACM1112Z<<",
-    "price": "€19,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SWITCH ONⓇ Kaffeemühle >>KM-A0201<<",
-    "price": "€12,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SWITCH ONⓇ Sandwichmaker >>SM-B0201<<",
-    "price": "€24,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SWITCH ONⓇ Kontaktgrill >>SKG 1000 B3/SOKG<<",
-    "price": "€19,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SWITCH ONⓇ Heißluftfritteuse >>SHF 1000 B1<<",
-    "price": "€34,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Kochtopf",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SPICE&SOULⓇ Backformen",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "PETRA Dampfbügelstation >>PT01035<<",
-    "price": "€59,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Mini-Luftpumpe",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NIGRIN Fahrrad Pflege-Set >>BIKE-CARE<<",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Fahrrad und Mofaabdeckung",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Standluftpumpe",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FISCHER Gepäckträgertasche >>Kurier<<",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FISCHER LED-Fahrradleuchten-Set",
-    "price": "€29,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Zundapp Klapprad 20 Zoll >>ZF40<<",
-    "price": "€249,00",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "CURVER Mikrowellen Dosen >>Smart Microwave<<",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SPICE&SOULⓇ Glas-Kasserolle",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "CURVER Mikrowellen-Dosen >>Smart Cook<<",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Brotbox",
-    "price": "€1,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "LOU LAGUIOLE Messer- oder Gabel-Set 6 St. Packg.",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SPICE&SOULⓇ Auflaufform oval oder rechteckig",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FACKELMANN Essig-/Ölsprüher",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "STEUBER Schneidebrett oder -Set",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FISCHER Fahrradhelm >>Urban Montis oder Urban Lano<<",
-    "price": "€19,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Fahrradhandschuhe",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIAL Ⓡ Fahrradhelm",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Fahrrad-Rucksack",
-    "price": "€17,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Fahrrad Handytasche",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Untersatteltasche",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIAL LED-Fahrradleuchten Set",
-    "price": "€14,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NEWCENTIALⓇ Fahrrad-Wandhalterungen 2-St.-Packg.",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Treteimer",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Müllsackständer",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC WC-Duftstein 96 g Packg.",
-    "price": "€0,95",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "VANISH Oxi Action 1,125-kg-Dose",
-    "price": "€8,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Küchentücher 3-lagig 4 x 64-Blatt-Packg.",
-    "price": "€1,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BEVOLAⓇ Slipeinlagen 24-55-St.-Packg.",
-    "price": "€0,88",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "CILLIT BANG Kraftreiniger 750 ml Fl.",
-    "price": "€1,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TENA Discreet 6 - 28-St.-Packg.",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SAGROTAN No Touch Nachfüller 250-ml-FI.",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FINISH Spülmaschinen Tabs 48-90-St.-Packg.",
-    "price": "€8,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "PROTEIN High Protein Bar 45-g-Riegel",
-    "price": "€1,39",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Sammelkarten-Boosterpack >>Karmesin & Purpur - Obsidian Flammen<< 10-St.-Packg.",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NIVEA Deo-Spray 150-ml-Dose",
-    "price": "€2,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NIVEA Haarspray oder Schaumfestiger 150-250 ml Dose",
-    "price": "€2,45",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ODOL Mundwasser 125-ml-Fl.",
-    "price": "€3,45",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ARONAL, ELMEX oder MERIDOL Zahnpasta 2 x 75-ml-Packg.",
-    "price": "€5,79",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ORAL-B Elektrische Zahnbürste >>Pro 1 200<<",
-    "price": "€27,77",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MONDAY Shampoo 350 ml Spender",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "L'ORÉAL Préférence",
-    "price": "€7,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HIPP Gute Nacht Bio-Mahlzeit 190 g Glas",
-    "price": "€1,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "WARSTEINER Premium Pilsener Ka. 20x0,5 L/24x0,33 L-Fl.",
-    "price": "€10,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "KARLSBERG Mixery 0,5 L Dose",
-    "price": "€0,89",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DESPERADOS Bier 0,5 L Dose",
-    "price": "€1,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "RAUCH Eistee 0,33 L Dose",
-    "price": "€0,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "VIO Bio-Limo 1-I-PET-FI.",
-    "price": "€1,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SANPELLEGRINO Sanbitter 6x98 ml Fl.",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "VOLVIC Naturelle natürliches Mineralwasser 1,5 L-PET-Fl.",
-    "price": "€0,85",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "WATERDROP Microdrink 24-g-Packg.",
-    "price": "€5,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MARTINI Bianco, Rosso oder Fiero 0,75 L-Fl.",
-    "price": "€5,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FEVER-TREE Tonic Water 0,5 L-Fl.",
-    "price": "€1,79",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "GORDON'S London Dry Gin oder 0.0, 0,7 L-Fl.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BENEVENTI Red Bitter 0,7 L-Fl.",
-    "price": "€3,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "AMECKE Sanfte Säfte 1 L Packg.",
-    "price": "€1,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MALIBU Kokoslikör 0,7 L-Fl.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "JOHNNIE WALKER Red Label Blended Scotch Whisky 0,7 L-Fl.",
-    "price": "€9,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "NORDFROST Eiswürfel oder Crushed Ice 2-kg-Beutel",
-    "price": "€1,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BEBIVITA Quetschbeutel 4 x 90-g-Beutel",
-    "price": "€2,22",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HEYYY Kaugummi 68-g-Dose",
-    "price": "€2,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "PEZ Bonbonspender",
-    "price": "€1,69",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HITSCHIES Fruchtgummi 125-g-Packg.",
-    "price": "€0,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BEAUTY SWEETIES Fruchtgummi-Häschen 125 g Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DEXTRO ENERGY Dextrose Täfelchen 3 x 46-g-Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "CHUPA CHUPS Lollies 120-g-Packg.",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TROLLI Fruchtgummis 150-g-Packg.",
-    "price": "€0,69",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "ADIDAS Men Duschgel 250 ml Fl.",
-    "price": "€1,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TRUMPF Edle Tropfen in Nuss 250-g-Packg.",
-    "price": "€2,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "HOSTA Mr. Tom 120-g-Packg.",
-    "price": "€0,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "PIASTEN Schoko-Linsen 225-g-Beutel",
-    "price": "€0,89",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TIC TAC Dragees 49-g-Packg.",
-    "price": "€1,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "STORCK Werther's Original Blissful Caramel Bites 140 g Beutel",
-    "price": "€1,79",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "KINDER Joy 20 g Stück",
-    "price": "€0,89",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Berliner/ Pfannkuchen",
-    "price": "€0,44",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Weltmeister Chiabrötchen",
-    "price": "€0,33",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Steinofen-baguette 250-g-Stück",
-    "price": "€0,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "Kastenweißbrot 750 g Stück",
-    "price": "€1,69",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "GUTES AUS DER BÄCKEREI Weißbrot 750-g-Packg.",
-    "price": "€1,19",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "BROTLAND Weizen-Mildes 1 kg Beutel",
-    "price": "€1,39",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "SCHÄR Meisterbäckers Vital glutenfrei 350 g Packg.",
-    "price": "€2,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "MESTEMACHER Westfälisches Pumpernickel Brot 500 g Packg.",
-    "price": "€1,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "FILINCHEN Knusperbrot 75 g Packg.",
-    "price": "€0,69",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "DALLMAYR Gold 200 g Glas",
-    "price": "€6,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "EDUSCHO Filterkaffee Nr. 1, 500 g Vak. Packg.",
-    "price": "€4,29",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "KABA Getränkepulver 400 g Nachfüllpackg.",
-    "price": "€1,79",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "JACOBS Crema Kaffeepads 118-g-Beutel",
-    "price": "€1,77",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TEA-FRIENDS Premium-Tee 40-90-g-Packg.",
-    "price": "€2,59",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "TILLMAN'S Toasty 280 g Packg.",
-    "price": "€2,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "KUKKI Cocktail 3 x 275 ml Fl.",
-    "price": "€8,49",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
-  },
-  {
-    "name": "K-CLASSIC Himbeeren 750 g Packg.",
-    "price": "€4,99",
-    "date": "Gültig in 2 Tagen",
-    "shop": "Kaufland"
   }
 ]
